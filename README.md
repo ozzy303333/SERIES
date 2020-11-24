@@ -2228,3 +2228,223 @@ http://thex.tv:57999/series/juanlopez/juanlopez/6107.mp4
 http://thex.tv:57999/series/juanlopez/juanlopez/6108.mp4
 #EXTINF:-1 group-title="SERIES COMEDIA" tvg-logo="http://thex.tv:57999/images/902bc9ddc2252404ddc25c8b30db1860.jpg",RBD: La Familia S01 E170
 http://thex.tv:57999/series/juanlopez/juanlopez/6109.mp4
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2e5e794d43e51a52529265ac867dee94.jpg",La venganza de Analía S01 E07
+http://thex.tv:57999/series/juanlopez/juanlopez/5972.mp4
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2e5e794d43e51a52529265ac867dee94.jpg",La venganza de Analía S01 E28
+http://thex.tv:57999/series/juanlopez/juanlopez/5993.mp4
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2e5e794d43e51a52529265ac867dee94.jpg",La venganza de Analía S01 E29
+http://thex.tv:57999/series/juanlopez/juanlopez/5994.mp4
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2e5e794d43e51a52529265ac867dee94.jpg",La venganza de Analía S01 E30
+http://thex.tv:57999/series/juanlopez/juanlopez/5995.mp4
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2e5e794d43e51a52529265ac867dee94.jpg",La venganza de Analía S01 E31
+http://thex.tv:57999/series/juanlopez/juanlopez/5996.mp4
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2e5e794d43e51a52529265ac867dee94.jpg",La venganza de Analía S01 E32
+http://thex.tv:57999/series/juanlopez/juanlopez/5997.mp4
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2e5e794d43e51a52529265ac867dee94.jpg",La venganza de Analía S01 E33
+http://thex.tv:57999/series/juanlopez/juanlopez/5998.mp4
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2e5e794d43e51a52529265ac867dee94.jpg",La venganza de Analía S01 E34
+http://thex.tv:57999/series/juanlopez/juanlopez/5999.mp4
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2e5e794d43e51a52529265ac867dee94.jpg",La venganza de Analía S01 E35
+http://thex.tv:57999/series/juanlopez/juanlopez/6000.mp4
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2e5e794d43e51a52529265ac867dee94.jpg",La venganza de Analía S01 E36
+http://thex.tv:57999/series/juanlopez/juanlopez/6001.mp4
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2e5e794d43e51a52529265ac867dee94.jpg",La venganza de Analía S01 E37
+http://thex.tv:57999/series/juanlopez/juanlopez/6002.mp4
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2e5e794d43e51a52529265ac867dee94.jpg",La venganza de Analía S01 E38
+http://thex.tv:57999/series/juanlopez/juanlopez/6003.mp4
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2e5e794d43e51a52529265ac867dee94.jpg",La venganza de Analía S01 E39
+http://thex.tv:57999/series/juanlopez/juanlopez/6004.mp4
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2e5e794d43e51a52529265ac867dee94.jpg",La venganza de Analía S01 E40
+http://thex.tv:57999/series/juanlopez/juanlopez/6005.mp4
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2e5e794d43e51a52529265ac867dee94.jpg",La venganza de Analía S01 E41
+http://thex.tv:57999/series/juanlopez/juanlopez/6006.mp4
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2e5e794d43e51a52529265ac867dee94.jpg",La venganza de Analía S01 E42
+http://thex.tv:57999/series/juanlopez/juanlopez/6007.mp4
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2e5e794d43e51a52529265ac867dee94.jpg",La venganza de Analía S01 E43
+http://thex.tv:57999/series/juanlopez/juanlopez/6008.mp4
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2e5e794d43e51a52529265ac867dee94.jpg",La venganza de Analía S01 E44
+http://thex.tv:57999/series/juanlopez/juanlopez/6009.mp4
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2e5e794d43e51a52529265ac867dee94.jpg",La venganza de Analía S01 E45
+http://thex.tv:57999/series/juanlopez/juanlopez/6010.mp4
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2e5e794d43e51a52529265ac867dee94.jpg",La venganza de Analía S01 E46
+http://thex.tv:57999/series/juanlopez/juanlopez/6011.mp4
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2e5e794d43e51a52529265ac867dee94.jpg",La venganza de Analía S01 E47
+http://thex.tv:57999/series/juanlopez/juanlopez/6012.mp4
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2e5e794d43e51a52529265ac867dee94.jpg",La venganza de Analía S01 E48
+http://thex.tv:57999/series/juanlopez/juanlopez/6013.mp4
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2e5e794d43e51a52529265ac867dee94.jpg",La venganza de Analía S01 E49
+http://thex.tv:57999/series/juanlopez/juanlopez/6014.mp4
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2e5e794d43e51a52529265ac867dee94.jpg",La venganza de Analía S01 E50
+http://thex.tv:57999/series/juanlopez/juanlopez/6015.mp4
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2e5e794d43e51a52529265ac867dee94.jpg",La venganza de Analía S01 E51
+http://thex.tv:57999/series/juanlopez/juanlopez/6016.mp4
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2e5e794d43e51a52529265ac867dee94.jpg",La venganza de Analía S01 E52
+http://thex.tv:57999/series/juanlopez/juanlopez/6017.mp4
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2e5e794d43e51a52529265ac867dee94.jpg",La venganza de Analía S01 E53
+http://thex.tv:57999/series/juanlopez/juanlopez/6372.mp4
+#EXTINF:-1 group-title="SERIES CIENCIA FICCION" tvg-logo="http://thex.tv:8000/images/2682ea3cc3c0dd84be7870496d5c7813.jpg",Dark S01 E01
+http://thex.tv:57999/series/juanlopez/juanlopez/6018.mkv
+#EXTINF:-1 group-title="SERIES CIENCIA FICCION" tvg-logo="http://thex.tv:8000/images/76035d000a8818b8e59b384caa16f86d.jpg",Dark S01 E02
+http://thex.tv:57999/series/juanlopez/juanlopez/6019.mkv
+#EXTINF:-1 group-title="SERIES CIENCIA FICCION" tvg-logo="http://thex.tv:8000/images/0ba856f288ff7d903a2a44af7606a58c.jpg",Dark S01 E03
+http://thex.tv:57999/series/juanlopez/juanlopez/6020.mkv
+#EXTINF:-1 group-title="SERIES CIENCIA FICCION" tvg-logo="http://thex.tv:8000/images/826ba4013e3977bb89a1ade3ba8addc2.jpg",Dark S01 E04
+http://thex.tv:57999/series/juanlopez/juanlopez/6021.mkv
+#EXTINF:-1 group-title="SERIES CIENCIA FICCION" tvg-logo="http://thex.tv:8000/images/0f3ddce7fa5f4c633d4de9a59432287b.jpg",Dark S01 E05
+http://thex.tv:57999/series/juanlopez/juanlopez/6022.mkv
+#EXTINF:-1 group-title="SERIES CIENCIA FICCION" tvg-logo="http://thex.tv:8000/images/e683154fc73027b8fb697cad9c1437a0.jpg",Dark S01 E06
+http://thex.tv:57999/series/juanlopez/juanlopez/6023.mkv
+#EXTINF:-1 group-title="SERIES CIENCIA FICCION" tvg-logo="http://thex.tv:8000/images/2ed7607b3a23384f491fb34ba05d502d.jpg",Dark S01 E07
+http://thex.tv:57999/series/juanlopez/juanlopez/6024.mkv
+#EXTINF:-1 group-title="SERIES CIENCIA FICCION" tvg-logo="http://thex.tv:8000/images/0594f7e4b05588efbda63c7226b53c84.jpg",Dark S01 E08
+http://thex.tv:57999/series/juanlopez/juanlopez/6025.mkv
+#EXTINF:-1 group-title="SERIES CIENCIA FICCION" tvg-logo="http://thex.tv:8000/images/2d14784e1d13fc8c69155dd333284fd0.jpg",Dark S01 E09
+http://thex.tv:57999/series/juanlopez/juanlopez/6026.mkv
+#EXTINF:-1 group-title="SERIES CIENCIA FICCION" tvg-logo="http://thex.tv:8000/images/c82a45a2ca4cdce0dd43e60b796f0de7.jpg",Dark S01 E10
+http://thex.tv:57999/series/juanlopez/juanlopez/6027.mkv
+#EXTINF:-1 group-title="SERIES DOCUMENTALES" tvg-logo="http://thex.tv:8000/images/f9e784fabb3b122e854be7c35f1a5a25.jpg",Zac Efron: Con los pies en la tierra S01 E01
+http://thex.tv:57999/series/juanlopez/juanlopez/6143.mkv
+#EXTINF:-1 group-title="SERIES DOCUMENTALES" tvg-logo="http://thex.tv:8000/images/35c52785c05449cba1d251840d47f50e.jpg",Zac Efron: Con los pies en la tierra S01 E02
+http://thex.tv:57999/series/juanlopez/juanlopez/6144.mkv
+#EXTINF:-1 group-title="SERIES DOCUMENTALES" tvg-logo="http://thex.tv:8000/images/ebd4d4dee68f4243aed1631fb4a7d27b.jpg",Zac Efron: Con los pies en la tierra S01 E03
+http://thex.tv:57999/series/juanlopez/juanlopez/6145.mkv
+#EXTINF:-1 group-title="SERIES DOCUMENTALES" tvg-logo="http://thex.tv:8000/images/b0b6e222bff1d7d8e7840be9799839bc.jpg",Zac Efron: Con los pies en la tierra S01 E04
+http://thex.tv:57999/series/juanlopez/juanlopez/6146.mkv
+#EXTINF:-1 group-title="SERIES DOCUMENTALES" tvg-logo="http://thex.tv:8000/images/0fe15cd5dc4f220df6ae7452df4fd802.jpg",Zac Efron: Con los pies en la tierra S01 E05
+http://thex.tv:57999/series/juanlopez/juanlopez/6147.mkv
+#EXTINF:-1 group-title="SERIES DOCUMENTALES" tvg-logo="http://thex.tv:8000/images/00079456352467da6fb3a47815ba7f86.jpg",Zac Efron: Con los pies en la tierra S01 E06
+http://thex.tv:57999/series/juanlopez/juanlopez/6148.mkv
+#EXTINF:-1 group-title="SERIES DOCUMENTALES" tvg-logo="http://thex.tv:8000/images/cf85ddc95963c9213c1f9e397e5b0d7c.jpg",Zac Efron: Con los pies en la tierra S01 E07
+http://thex.tv:57999/series/juanlopez/juanlopez/6149.mkv
+#EXTINF:-1 group-title="SERIES DOCUMENTALES" tvg-logo="http://thex.tv:8000/images/2ee8d8b14cfe0c3c438803577653c7b6.jpg",Zac Efron: Con los pies en la tierra S01 E08
+http://thex.tv:57999/series/juanlopez/juanlopez/6150.mkv
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2fe7db734bb0f6ac7393676030bc1503.jpg",Oscuro deseo S01 E01
+http://thex.tv:57999/series/juanlopez/juanlopez/6152.mkv
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2fe7db734bb0f6ac7393676030bc1503.jpg",Oscuro deseo S01 E02
+http://thex.tv:57999/series/juanlopez/juanlopez/6153.mkv
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2fe7db734bb0f6ac7393676030bc1503.jpg",Oscuro deseo S01 E03
+http://thex.tv:57999/series/juanlopez/juanlopez/6154.mkv
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2fe7db734bb0f6ac7393676030bc1503.jpg",Oscuro deseo S01 E04
+http://thex.tv:57999/series/juanlopez/juanlopez/6155.mkv
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2fe7db734bb0f6ac7393676030bc1503.jpg",Oscuro deseo S01 E05
+http://thex.tv:57999/series/juanlopez/juanlopez/6156.mkv
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2fe7db734bb0f6ac7393676030bc1503.jpg",Oscuro deseo S01 E06
+http://thex.tv:57999/series/juanlopez/juanlopez/6157.mkv
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2fe7db734bb0f6ac7393676030bc1503.jpg",Oscuro deseo S01 E07
+http://thex.tv:57999/series/juanlopez/juanlopez/6158.mkv
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2fe7db734bb0f6ac7393676030bc1503.jpg",Oscuro deseo S01 E08
+http://thex.tv:57999/series/juanlopez/juanlopez/6159.mkv
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2fe7db734bb0f6ac7393676030bc1503.jpg",Oscuro deseo S01 E09
+http://thex.tv:57999/series/juanlopez/juanlopez/6160.mkv
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2fe7db734bb0f6ac7393676030bc1503.jpg",Oscuro deseo S01 E10
+http://thex.tv:57999/series/juanlopez/juanlopez/6161.mkv
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2fe7db734bb0f6ac7393676030bc1503.jpg",Oscuro deseo S01 E11
+http://thex.tv:57999/series/juanlopez/juanlopez/6162.mkv
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2fe7db734bb0f6ac7393676030bc1503.jpg",Oscuro deseo S01 E12
+http://thex.tv:57999/series/juanlopez/juanlopez/6163.mkv
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2fe7db734bb0f6ac7393676030bc1503.jpg",Oscuro deseo S01 E13
+http://thex.tv:57999/series/juanlopez/juanlopez/6164.mkv
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2fe7db734bb0f6ac7393676030bc1503.jpg",Oscuro deseo S01 E14
+http://thex.tv:57999/series/juanlopez/juanlopez/6165.mkv
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2fe7db734bb0f6ac7393676030bc1503.jpg",Oscuro deseo S01 E15
+http://thex.tv:57999/series/juanlopez/juanlopez/6166.mkv
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2fe7db734bb0f6ac7393676030bc1503.jpg",Oscuro deseo S01 E16
+http://thex.tv:57999/series/juanlopez/juanlopez/6167.mkv
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2fe7db734bb0f6ac7393676030bc1503.jpg",Oscuro deseo S01 E17
+http://thex.tv:57999/series/juanlopez/juanlopez/6168.mkv
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:57999/images/2fe7db734bb0f6ac7393676030bc1503.jpg",Oscuro deseo S01 E18
+http://thex.tv:57999/series/juanlopez/juanlopez/6169.mkv
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:8000/images/ab8a63ad109ee5c7d8da92ceb3e455fb.jpg",La Jauría S01 E01
+http://thex.tv:57999/series/juanlopez/juanlopez/6170.mkv
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:8000/images/cc259618be9e17cba7af92cbee50e1d0.jpg",La Jauría S01 E02
+http://thex.tv:57999/series/juanlopez/juanlopez/6171.mkv
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:8000/images/a46126f1b20628662c232befb9719c5f.jpg",La Jauría S01 E03
+http://thex.tv:57999/series/juanlopez/juanlopez/6172.mkv
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:8000/images/d1d2cbc260efd1f5b4d0af18721f1d37.jpg",La Jauría S01 E04
+http://thex.tv:57999/series/juanlopez/juanlopez/6173.mkv
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:8000/images/8c8ef594ce65bc7de01ade642ba95610.jpg",La Jauría S01 E05
+http://thex.tv:57999/series/juanlopez/juanlopez/6174.mkv
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:8000/images/3891e5b9350cc7f7db212ea5cf02ce3e.jpg",La Jauría S01 E06
+http://thex.tv:57999/series/juanlopez/juanlopez/6175.mkv
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:8000/images/97dbca75375c2487e179b0fab8ef551a.jpg",La Jauría S01 E07
+http://thex.tv:57999/series/juanlopez/juanlopez/6176.mkv
+#EXTINF:-1 group-title="SERIES DRAMA" tvg-logo="http://thex.tv:8000/images/fbcee87e881f624faba62b6ac20a91fd.jpg",La Jauría S01 E08
+http://thex.tv:57999/series/juanlopez/juanlopez/6177.mkv
+#EXTINF:-1 group-title="SERIES DOCUMENTALES" tvg-logo="http://thex.tv:8000/images/ac7c4d85d9b7e5d1d311f824874ee645.jpg",El negocio de los estupefacientes S01 E01
+http://thex.tv:57999/series/juanlopez/juanlopez/6178.mkv
+#EXTINF:-1 group-title="SERIES DOCUMENTALES" tvg-logo="http://thex.tv:8000/images/6ebc7afe155fdbb4c1f735c4832974b1.jpg",El negocio de los estupefacientes S01 E02
+http://thex.tv:57999/series/juanlopez/juanlopez/6179.mkv
+#EXTINF:-1 group-title="SERIES DOCUMENTALES" tvg-logo="http://thex.tv:8000/images/ee1cadb9d6fa65aca550d413790f38e2.jpg",El negocio de los estupefacientes S01 E03
+http://thex.tv:57999/series/juanlopez/juanlopez/6180.mkv
+#EXTINF:-1 group-title="SERIES DOCUMENTALES" tvg-logo="http://thex.tv:8000/images/87275eef3da5bb0eff63e06e98527f29.jpg",El negocio de los estupefacientes S01 E04
+http://thex.tv:57999/series/juanlopez/juanlopez/6181.mkv
+#EXTINF:-1 group-title="SERIES DOCUMENTALES" tvg-logo="http://thex.tv:8000/images/bca83a94af3da18dc60b4367e4f2b2a8.jpg",El negocio de los estupefacientes S01 E05
+http://thex.tv:57999/series/juanlopez/juanlopez/6182.mkv
+#EXTINF:-1 group-title="SERIES DOCUMENTALES" tvg-logo="http://thex.tv:8000/images/3ddebd19af209d02ad2889dcf29480e0.jpg",El negocio de los estupefacientes S01 E06
+http://thex.tv:57999/series/juanlopez/juanlopez/6183.mkv
+#EXTINF:-1 group-title="SERIES COMEDIA" tvg-logo="http://thex.tv:8000/images/e79c27b52147da244161e650c8b41fc7.jpg",Cómo sobrevivir soltero S01 E01
+http://thex.tv:57999/series/juanlopez/juanlopez/6184.mkv
+#EXTINF:-1 group-title="SERIES COMEDIA" tvg-logo="http://thex.tv:8000/images/2aaab39a10153bee79ef9ef1e3c61a34.jpg",Cómo sobrevivir soltero S01 E02
+http://thex.tv:57999/series/juanlopez/juanlopez/6185.mkv
+#EXTINF:-1 group-title="SERIES COMEDIA" tvg-logo="http://thex.tv:8000/images/d508370c03d3bea510c85acadc80571c.jpg",Cómo sobrevivir soltero S01 E03
+http://thex.tv:57999/series/juanlopez/juanlopez/6186.mkv
+#EXTINF:-1 group-title="SERIES COMEDIA" tvg-logo="http://thex.tv:8000/images/4d280178637b40553245340f4488dde7.jpg",Cómo sobrevivir soltero S01 E04
+http://thex.tv:57999/series/juanlopez/juanlopez/6187.mkv
+#EXTINF:-1 group-title="SERIES COMEDIA" tvg-logo="http://thex.tv:8000/images/fee0bc7378f54c23b53b934416e3ab8e.jpg",Cómo sobrevivir soltero S01 E05
+http://thex.tv:57999/series/juanlopez/juanlopez/6188.mkv
+#EXTINF:-1 group-title="SERIES COMEDIA" tvg-logo="http://thex.tv:8000/images/c5a4184ed1e4825538745ce7f33ad36a.jpg",Cómo sobrevivir soltero S01 E06
+http://thex.tv:57999/series/juanlopez/juanlopez/6189.mkv
+#EXTINF:-1 group-title="SERIES COMEDIA" tvg-logo="http://thex.tv:8000/images/a5f7e9b742845c85d5aa3fd8133b2d67.jpg",Cómo sobrevivir soltero S01 E07
+http://thex.tv:57999/series/juanlopez/juanlopez/6190.mkv
+#EXTINF:-1 group-title="SERIES COMEDIA" tvg-logo="http://thex.tv:8000/images/c8354ec08776ef2d0ac3af726d22c77d.jpg",Cómo sobrevivir soltero S01 E08
+http://thex.tv:57999/series/juanlopez/juanlopez/6191.mkv
+#EXTINF:-1 group-title="SERIES COMEDIA" tvg-logo="http://thex.tv:8000/images/ce46b2b519f1f99ad45af0b79b8e63ce.jpg",Cómo sobrevivir soltero S01 E09
+http://thex.tv:57999/series/juanlopez/juanlopez/6192.mkv
+#EXTINF:-1 group-title="SERIES CIENCIA FICCION" tvg-logo="http://thex.tv:8000/images/9d3ac9876559be516159e4528f7ad4f7.jpg",Maldita S01 E01
+http://thex.tv:57999/series/juanlopez/juanlopez/6230.mkv
+#EXTINF:-1 group-title="SERIES CIENCIA FICCION" tvg-logo="http://thex.tv:8000/images/bedbc34ece5b8572abdc466c738f59e2.jpg",Maldita S01 E02
+http://thex.tv:57999/series/juanlopez/juanlopez/6231.mkv
+#EXTINF:-1 group-title="SERIES CIENCIA FICCION" tvg-logo="http://thex.tv:8000/images/7166d1afca7c3282684f163e08680924.jpg",Maldita S01 E03
+http://thex.tv:57999/series/juanlopez/juanlopez/6232.mkv
+#EXTINF:-1 group-title="SERIES CIENCIA FICCION" tvg-logo="http://thex.tv:8000/images/c89cd406afb66bf5cbc50d51877c3a6d.jpg",Maldita S01 E04
+http://thex.tv:57999/series/juanlopez/juanlopez/6233.mkv
+#EXTINF:-1 group-title="SERIES CIENCIA FICCION" tvg-logo="http://thex.tv:8000/images/271dfd279cfa164d18b1289820eeea63.jpg",Maldita S01 E05
+http://thex.tv:57999/series/juanlopez/juanlopez/6234.mkv
+#EXTINF:-1 group-title="SERIES CIENCIA FICCION" tvg-logo="http://thex.tv:8000/images/b5e778726e7b2eb7ebe262a589ae1fe9.jpg",Maldita S01 E06
+http://thex.tv:57999/series/juanlopez/juanlopez/6235.mkv
+#EXTINF:-1 group-title="SERIES CIENCIA FICCION" tvg-logo="http://thex.tv:8000/images/3797fbcee95ee19ae9c41e98dd80c9e2.jpg",Maldita S01 E07
+http://thex.tv:57999/series/juanlopez/juanlopez/6236.mkv
+#EXTINF:-1 group-title="SERIES CIENCIA FICCION" tvg-logo="http://thex.tv:8000/images/c94bff71f72bbf9748050168cb8e1242.jpg",Maldita S01 E08
+http://thex.tv:57999/series/juanlopez/juanlopez/6237.mkv
+#EXTINF:-1 group-title="SERIES CIENCIA FICCION" tvg-logo="http://thex.tv:8000/images/a0a767e3a3bc8f566ffb29ce5b4ca494.jpg",Maldita S01 E09
+http://thex.tv:57999/series/juanlopez/juanlopez/6238.mkv
+#EXTINF:-1 group-title="SERIES CIENCIA FICCION" tvg-logo="http://thex.tv:8000/images/611f9124775c4e79009d068e8eaa7852.jpg",Maldita S01 E10
+http://thex.tv:57999/series/juanlopez/juanlopez/6239.mkv
+#EXTINF:-1 group-title="SERIES NARCOS" tvg-logo="http://thex.tv:57999/images/9102e8d0a653778b24a9be0bb693154f.jpg",Alias el Mexicano S01 E02
+http://thex.tv:57999/series/juanlopez/juanlopez/6261.mp4
+#EXTINF:-1 group-title="SERIES NARCOS" tvg-logo="http://thex.tv:57999/images/9102e8d0a653778b24a9be0bb693154f.jpg",Alias el Mexicano S01 E07
+http://thex.tv:57999/series/juanlopez/juanlopez/6266.mp4
+#EXTINF:-1 group-title="SERIES NARCOS" tvg-logo="http://thex.tv:57999/images/9102e8d0a653778b24a9be0bb693154f.jpg",Alias el Mexicano S01 E09
+http://thex.tv:57999/series/juanlopez/juanlopez/6268.mp4
+#EXTINF:-1 group-title="SERIES NARCOS" tvg-logo="http://thex.tv:57999/images/9102e8d0a653778b24a9be0bb693154f.jpg",Alias el Mexicano S01 E11
+http://thex.tv:57999/series/juanlopez/juanlopez/6270.mp4
+#EXTINF:-1 group-title="SERIES NARCOS" tvg-logo="http://thex.tv:57999/images/9102e8d0a653778b24a9be0bb693154f.jpg",Alias el Mexicano S01 E14
+http://thex.tv:57999/series/juanlopez/juanlopez/6273.mp4
+#EXTINF:-1 group-title="SERIES NARCOS" tvg-logo="http://thex.tv:57999/images/9102e8d0a653778b24a9be0bb693154f.jpg",Alias el Mexicano S01 E15
+http://thex.tv:57999/series/juanlopez/juanlopez/6274.mp4
+#EXTINF:-1 group-title="SERIES NARCOS" tvg-logo="http://thex.tv:57999/images/9102e8d0a653778b24a9be0bb693154f.jpg",Alias el Mexicano S01 E16
+http://thex.tv:57999/series/juanlopez/juanlopez/6275.mp4
+#EXTINF:-1 group-title="SERIES NARCOS" tvg-logo="http://thex.tv:57999/images/9102e8d0a653778b24a9be0bb693154f.jpg",Alias el Mexicano S01 E17
+http://thex.tv:57999/series/juanlopez/juanlopez/6276.mp4
+#EXTINF:-1 group-title="SERIES NARCOS" tvg-logo="http://thex.tv:57999/images/9102e8d0a653778b24a9be0bb693154f.jpg",Alias el Mexicano S01 E19
+http://thex.tv:57999/series/juanlopez/juanlopez/6278.mp4
+#EXTINF:-1 group-title="SERIES NARCOS" tvg-logo="http://thex.tv:57999/images/9102e8d0a653778b24a9be0bb693154f.jpg",Alias el Mexicano S01 E27
+http://thex.tv:57999/series/juanlopez/juanlopez/6286.mp4
+#EXTINF:-1 group-title="SERIES NARCOS" tvg-logo="http://thex.tv:57999/images/9102e8d0a653778b24a9be0bb693154f.jpg",Alias el Mexicano S01 E28
+http://thex.tv:57999/series/juanlopez/juanlopez/6287.mp4
+#EXTINF:-1 group-title="SERIES NARCOS" tvg-logo="http://thex.tv:57999/images/9102e8d0a653778b24a9be0bb693154f.jpg",Alias el Mexicano S01 E29
+http://thex.tv:57999/series/juanlopez/juanlopez/6288.mp4
+#EXTINF:-1 group-title="SERIES NARCOS" tvg-logo="http://thex.tv:57999/images/9102e8d0a653778b24a9be0bb693154f.jpg",Alias el Mexicano S01 E30
+http://thex.tv:57999/series/juanlopez/juanlopez/6289.mp4
+#EXTINF:-1 group-title="SERIES NARCOS" tvg-logo="http://thex.tv:57999/images/9102e8d0a653778b24a9be0bb693154f.jpg",Alias el Mexicano S01 E53
+http://thex.tv:57999/series/juanlopez/juanlopez/6312.mp4
