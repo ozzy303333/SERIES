@@ -2680,7 +2680,7 @@ https://archive.org/download/1_20211103/21%20%288%29.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/717Se+lZiOL._SL1500_.jpg" group-title="The Big Bang Theory",1X9 The Big Bang Theory
 https://archive.org/download/1_20211103/21%20%2810%29.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/717Se+lZiOL._SL1500_.jpg" group-title="The Big Bang Theory",1X10 The Big Bang Theory
-https://archive.org/download/1_20211103/21%20%2810%29.mp4
+https://archive.org/download/1_20211103/21%20%2810%29.ia.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/717Se+lZiOL._SL1500_.jpg" group-title="The Big Bang Theory",1X11 The Big Bang Theory
 https://archive.org/download/1_20211103/21%20%2811%29.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/717Se+lZiOL._SL1500_.jpg" group-title="The Big Bang Theory",1X12 The Big Bang Theory
