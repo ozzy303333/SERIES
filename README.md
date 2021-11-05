@@ -2680,7 +2680,7 @@ https://archive.org/download/1_20211103/21%20%288%29.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/717Se+lZiOL._SL1500_.jpg" group-title="The Big Bang Theory",1X9 The Big Bang Theory
 https://archive.org/download/1_20211103/21%20%2810%29.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/717Se+lZiOL._SL1500_.jpg" group-title="The Big Bang Theory",1X10 The Big Bang Theory
-https://archive.org/download/1_20211103/21%20%2810%29.ia.mp4
+https://archive.org/download/1_20211103/21%20%2810%29.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/717Se+lZiOL._SL1500_.jpg" group-title="The Big Bang Theory",1X11 The Big Bang Theory
 https://archive.org/download/1_20211103/21%20%2811%29.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/717Se+lZiOL._SL1500_.jpg" group-title="The Big Bang Theory",1X12 The Big Bang Theory
@@ -2744,21 +2744,21 @@ https://archive.org/download/1_20211103/22-1%20%2823%29.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/09/18/04/44/3653258.jpg" group-title="The Big Bang Theory",3X1 The Big Bang Theory
 https://archive.org/download/1_20211103/27-1%20%281%29.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/09/18/04/44/3653258.jpg" group-title="The Big Bang Theory",3X2 The Big Bang Theory
-https://archive.org/download/1_20211103/27-2%20%281%29.mp4
+https://archive.org/download/1_20211103/27-1%20%282%29.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/09/18/04/44/3653258.jpg" group-title="The Big Bang Theory",3X3 The Big Bang Theory
-https://archive.org/download/1_20211103/27-3%20%281%29.mp4
+https://archive.org/download/1_20211103/27-1%20%283%29.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/09/18/04/44/3653258.jpg" group-title="The Big Bang Theory",3X4 The Big Bang Theory
-https://archive.org/download/1_20211103/27-4%20%281%29.mp4
+https://archive.org/download/1_20211103/27-1%20%284%29.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/09/18/04/44/3653258.jpg" group-title="The Big Bang Theory",3X5 The Big Bang Theory
-https://archive.org/download/1_20211103/27-5%20%281%29.mp4
+https://archive.org/download/1_20211103/27-1%20%285%29.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/09/18/04/44/3653258.jpg" group-title="The Big Bang Theory",3X6 The Big Bang Theory
-https://archive.org/download/1_20211103/27-6%20%281%29.mp4
+https://archive.org/download/1_20211103/27-1%20%286%29.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/09/18/04/44/3653258.jpg" group-title="The Big Bang Theory",3X7 The Big Bang Theory
-https://archive.org/download/1_20211103/27-7%20%281%29.mp4
+https://archive.org/download/1_20211103/27-1%20%287%29.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/09/18/04/44/3653258.jpg" group-title="The Big Bang Theory",3X8 The Big Bang Theory
-https://archive.org/download/1_20211103/27-8%20%281%29.mp4
+https://archive.org/download/1_20211103/27-1%20%288%29.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/09/18/04/44/3653258.jpg" group-title="The Big Bang Theory",3X9 The Big Bang Theory
-https://archive.org/download/1_20211103/27-9%20%281%29.mp4
+https://archive.org/download/1_20211103/27-1%20%289%29.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/09/18/04/44/3653258.jpg" group-title="The Big Bang Theory",3X10 The Big Bang Theory
 https://archive.org/download/1_20211103/27-1%20%2810%29.mp4
 #EXTINF:-1 tvg-logo="https://mx.web.img3.acsta.net/pictures/18/09/18/04/44/3653258.jpg" group-title="The Big Bang Theory",3X11 The Big Bang Theory
@@ -2804,7 +2804,7 @@ https://archive.org/download/1_20211103/28-1%20%287%29.mp4
 #EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_999515-MLM25263693846_012017-O.jpg" group-title="The Big Bang Theory",4X8 The Big Bang Theory
 https://archive.org/download/1_20211103/28-1%20%288%29.mp4
 #EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_999515-MLM25263693846_012017-O.jpg" group-title="The Big Bang Theory",4X9 The Big Bang Theory
-https://archive.org/download/1_20211103/28-9%20%281%29.mp4
+https://archive.org/download/1_20211103/28-1%20%289%29.mp4
 #EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_999515-MLM25263693846_012017-O.jpg" group-title="The Big Bang Theory",4X10 The Big Bang Theory
 https://archive.org/download/1_20211103/28-1%20%2810%29.ia.mp4
 #EXTINF:-1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_999515-MLM25263693846_012017-O.jpg" group-title="The Big Bang Theory",4X11 The Big Bang Theory
