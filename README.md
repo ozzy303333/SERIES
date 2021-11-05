@@ -1177,8 +1177,6 @@ https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/E
 https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%203x09%20Las%20lluvias%20de%20Castamere.mkv
 #EXTINF:-1 tvg-logo="https://www.quadrorama.com.br/wp-content/themes/quadrorama/img/moldura/?quadro=2017/08/5-3.png&m=Moldura%20preta%20de%20madeira_0" group-title="JUEGO DE TRONOS",Episodio 3x10 Mhysa
 https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%203x10%20Mhysa.mkv
-#EXTINF:-1 tvg-logo="https://elcomercio.pe/resizer/kCEH8QW-zgLAAhYZi2JQtXeHE4U=/1200x1200/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/RX5D4XX3DNBLNGFA4VMLZTKNJU.jpg" group-title="JUEGO DE TRONOS",palabras negras
-https://elcomercio.pe/resizer/kCEH8QW-zgLAAhYZi2JQtXeHE4U=/1200x1200/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/RX5D4XX3DNBLNGFA4VMLZTKNJU.jpg
 #EXTINF:-1 tvg-logo="https://i.redd.it/h7uga1bv24fz.jpg" group-title="JUEGO DE TRONOS",Bastardos y cosas rotas
 https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%201x04%20Tullidos%2C%20Bastardos%20y%20cosas%20rotas.mp4
 #EXTINF:-1 tvg-logo="https://www.vodafone.es/c/statics/imagen/img_cartelera_1_juego_tronos.jpg?v=20170616121136" group-title="JUEGO DE TRONOS",Episodio 1x01 Se acerca el invierno.mp4
@@ -1235,8 +1233,6 @@ https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/E
 https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%203x09%20Las%20lluvias%20de%20Castamere.mkv
 #EXTINF:-1 tvg-logo="https://www.quadrorama.com.br/wp-content/themes/quadrorama/img/moldura/?quadro=2017/08/5-3.png&m=Moldura%20preta%20de%20madeira_0" group-title="JUEGO DE TRONOS",Episodio 3x10 Mhysa
 https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%203x10%20Mhysa.mkv
-#EXTINF:-1 tvg-logo="https://elcomercio.pe/resizer/kCEH8QW-zgLAAhYZi2JQtXeHE4U=/1200x1200/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/RX5D4XX3DNBLNGFA4VMLZTKNJU.jpg" group-title="JUEGO DE TRONOS",palabras negras
-https://elcomercio.pe/resizer/kCEH8QW-zgLAAhYZi2JQtXeHE4U=/1200x1200/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/RX5D4XX3DNBLNGFA4VMLZTKNJU.jpg
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-tngKcNkJX20/UJsFoINcEYI/AAAAAAAAU4A/EjS2qmzaAtM/s1600/Futurama%2B02x03.mp4_snapshot_11.21_%255B2012.11.07_22.05.13%255D.jpg" group-title="FUTURAMA",A la cabeza de las elecciones
 http://bit.ly/2NG0t7g
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.9f91fe66e994b50bf93e68048be701c9?rik=FqXKtZiIHVTqIA&riu=http%3a%2f%2f2.bp.blogspot.com%2f-hafuJpG5xt8%2fUaopHf7YSgI%2fAAAAAAAADw0%2fLT4MRCcOxTk%2fs1600%2f2x2.jpg&ehk=WBJBFOzy0DeFfq9cqR%2b8yJ%2b%2flfSdJdQy9Rz%2f3yJrdqQ%3d&risl=&pid=ImgRaw&r=0" group-title="FUTURAMA",comienza de nuevo
