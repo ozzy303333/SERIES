@@ -123,40 +123,292 @@ https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/E
 https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%203x09%20Las%20lluvias%20de%20Castamere.mkv
 #EXTINF:-1 group-title="JUEGO DE TRONOS" tvg-logo="https://www.quadrorama.com.br/wp-content/themes/quadrorama/img/moldura/?quadro=2017/08/5-3.png&m=Moldura%20preta%20de%20madeira_0" ,Episodio 3x10 Mhysa
 https://archive.org/download/1-ver-el-quinto-elemento-1997-480-ju-an-ch-o-1304/Episodio%203x10%20Mhysa.mkv
-#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://2.bp.blogspot.com/-tngKcNkJX20/UJsFoINcEYI/AAAAAAAAU4A/EjS2qmzaAtM/s1600/Futurama%2B02x03.mp4_snapshot_11.21_%255B2012.11.07_22.05.13%255D.jpg" ,A la cabeza de las elecciones
-http://bit.ly/2NG0t7g
-#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://th.bing.com/th/id/R.9f91fe66e994b50bf93e68048be701c9?rik=FqXKtZiIHVTqIA&riu=http%3a%2f%2f2.bp.blogspot.com%2f-hafuJpG5xt8%2fUaopHf7YSgI%2fAAAAAAAADw0%2fLT4MRCcOxTk%2fs1600%2f2x2.jpg&ehk=WBJBFOzy0DeFfq9cqR%2b8yJ%2b%2flfSdJdQy9Rz%2f3yJrdqQ%3d&risl=&pid=ImgRaw&r=0" ,comienza de nuevo
-http://bit.ly/2pXgiNL
-#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://th.bing.com/th/id/OIP.c8mDd67jI7eV_uXNGkxHOAHaFj?pid=ImgDet&rs=1" ,Cuando los Extraterrestres Atacan
-http://bit.ly/2yew1fR
-#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://i.ytimg.com/vi/zxO5TbCNisw/maxresdefault.jpg" ,Cuento de Navidad
-http://bit.ly/2IQjV0g
-#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://th.bing.com/th/id/R.dfe1151abce44ccf6b99c7eb18c6e4cb?rik=0dBNG%2bbKIxq9Ag&pid=ImgRaw&r=0" ,El Infierno Está en los Demás Robots
-http://bit.ly/2ORxClk
-#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://4.bp.blogspot.com/-sPabTrMeDak/U07AQSy1q4I/AAAAAAAACtc/USBl2T0oLWw/s1600/Futurama+01x13.mp4_snapshot_05.56_[2012.11.07_18.23.43].jpg" ,Fry y la Fábrica de Slurm
-http://bit.ly/2Oi8C74
-#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://futurama-latino.net/wp-content/uploads/2019/06/1x02.jpg" ,La Serie Ha Aterrizado
-http://bit.ly/2OSTAnS
-#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://futurama-latino.net/wp-content/uploads/2019/06/1x07.jpg" ,Mis Tres Soles
-http://bit.ly/2OmhMja
-#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://thesimpsonsrp.com/wp-content/uploads/2011/08/1acv0460-400x304.jpg" ,Obras de Amor Perdidas en el Espacio
-http://bit.ly/2A6yc6z
-#EXTINF:-1 group-title="FUTURAMA" tvg-logo="http://4.bp.blogspot.com/-Vc93lEV6Ngs/UPxiLMcT4KI/AAAAAAAAB7c/9m1xkbMlJGI/s200/vlcsnap-122413.png" ,Piloto Espacial 3000
-http://bit.ly/2Epug54
-#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://thesimpsonsrp.com/wp-content/uploads/2011/08/1acv0518-400x304.jpg" ,Temores de un Planeta Robot
-http://bit.ly/2OmHuEa
-#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://thesimpsonsrp.com/wp-content/thumbgen_cache/466689a8ee7b927db7662a319cb7d016.jpg" ,Un Enorme Montón de Basura
-http://bit.ly/2yepkKO
-#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://image.tmdb.org/t/p/original/5AFwMenzesdH2fM2Nv7kNspcxn2.jpg" ,Un Vuelo Inolvidable
-http://bit.ly/2CGXwCr
-#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://i.ytimg.com/vi/XAfZ5gk4o44/maxresdefault.jpg" ,Universidad de Marte
-http://bit.ly/2PtPPCh
-#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://th.bing.com/th/id/OIP.zBc7uy-qN2YIihB-KoCGTgHaFj?pid=ImgDet&rs=1" ,Unos Valiosos Pececitos
-http://bit.ly/2yfGsQ5
-#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://th.bing.com/th/id/R.a4acdf5de3c63e8b72f7d6901605e5ad?rik=Ga%2fPxN4VkJHkNw&riu=http%3a%2f%2fimages.nymag.com%2fimages%2f2%2fdaily%2f2011%2f02%2f02_futurama_190x190.jpg&ehk=5QlVjgqdXv%2fuNfy9T4D5venMB1vZbJK%2bJB7uAykQN5g%3d&risl=&pid=ImgRaw&r=0" ,Yo Compaero De Piso
-http://bit.ly/2OkoQg1
-#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://th.bing.com/th/id/R.29a0b63f463422e1beb76454bee5178d?rik=42Tn0SgscJh8sA&pid=ImgRaw&r=0" ,Yo siento esa emoción
-http://bit.ly/2EiKvAG
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/sdpnoticias/3C7IATFRWNAHDNMQ2HF4DOBMBI.jpg",01x1 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%201.1.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/sdpnoticias/3C7IATFRWNAHDNMQ2HF4DOBMBI.jpg",01x2 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%201.2.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/sdpnoticias/3C7IATFRWNAHDNMQ2HF4DOBMBI.jpg",01x3 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%201.3.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/sdpnoticias/3C7IATFRWNAHDNMQ2HF4DOBMBI.jpg",01x4 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%201.4.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/sdpnoticias/3C7IATFRWNAHDNMQ2HF4DOBMBI.jpg",01x5 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%201.5.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/sdpnoticias/3C7IATFRWNAHDNMQ2HF4DOBMBI.jpg",01x6 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%201.6.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/sdpnoticias/3C7IATFRWNAHDNMQ2HF4DOBMBI.jpg",01x7 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%201.7.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/sdpnoticias/3C7IATFRWNAHDNMQ2HF4DOBMBI.jpg",01x8 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%201.8.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/sdpnoticias/3C7IATFRWNAHDNMQ2HF4DOBMBI.jpg",01x9 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%201.9.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://m.media-amazon.com/images/I/51-F8RCH+vL._AC_UF1000,1000_QL80_.jpg",02x1 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%202.1.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://m.media-amazon.com/images/I/51-F8RCH+vL._AC_UF1000,1000_QL80_.jpg",02x2 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%202.2.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://m.media-amazon.com/images/I/51-F8RCH+vL._AC_UF1000,1000_QL80_.jpg",02x3 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%202.3.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://m.media-amazon.com/images/I/51-F8RCH+vL._AC_UF1000,1000_QL80_.jpg",02x4 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%202.4.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://m.media-amazon.com/images/I/51-F8RCH+vL._AC_UF1000,1000_QL80_.jpg",02x5 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%202.5.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://m.media-amazon.com/images/I/51-F8RCH+vL._AC_UF1000,1000_QL80_.jpg",02x6 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%202.6.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://m.media-amazon.com/images/I/51-F8RCH+vL._AC_UF1000,1000_QL80_.jpg",02x7 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%202.7.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://m.media-amazon.com/images/I/51-F8RCH+vL._AC_UF1000,1000_QL80_.jpg",02x8 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%202.8.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://m.media-amazon.com/images/I/51-F8RCH+vL._AC_UF1000,1000_QL80_.jpg",02x9 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%202.9.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://m.media-amazon.com/images/I/51-F8RCH+vL._AC_UF1000,1000_QL80_.jpg",02x10 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%202.10.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://m.media-amazon.com/images/I/51-F8RCH+vL._AC_UF1000,1000_QL80_.jpg",02x11 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%202.11.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://m.media-amazon.com/images/I/51-F8RCH+vL._AC_UF1000,1000_QL80_.jpg",02x12 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%202.12.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://m.media-amazon.com/images/I/51-F8RCH+vL._AC_UF1000,1000_QL80_.jpg",02x13  FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%202.13.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://m.media-amazon.com/images/I/51-F8RCH+vL._AC_UF1000,1000_QL80_.jpg",02x14 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%202.14.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://m.media-amazon.com/images/I/51-F8RCH+vL._AC_UF1000,1000_QL80_.jpg",02x15 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%202.15.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://m.media-amazon.com/images/I/51-F8RCH+vL._AC_UF1000,1000_QL80_.jpg",02x16 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%202.16.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://m.media-amazon.com/images/I/51-F8RCH+vL._AC_UF1000,1000_QL80_.jpg",02x17 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%202.17.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://m.media-amazon.com/images/I/51-F8RCH+vL._AC_UF1000,1000_QL80_.jpg",02x18 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%202.18.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://m.media-amazon.com/images/I/51-F8RCH+vL._AC_UF1000,1000_QL80_.jpg",02x19 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%202.19.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://m.media-amazon.com/images/I/51-F8RCH+vL._AC_UF1000,1000_QL80_.jpg",02x20 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%202.20.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/FUTURAMA_Volume_3.png",03x1 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%203.1.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/FUTURAMA_Volume_3.png",03x2 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%203.2.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/FUTURAMA_Volume_3.png",03x3 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%203.3.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/FUTURAMA_Volume_3.png",03x4 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%203.4.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/FUTURAMA_Volume_3.png",03x5 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%203.5.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/FUTURAMA_Volume_3.png",03x6 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%203.6.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/FUTURAMA_Volume_3.png",03x7 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%203.7.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/FUTURAMA_Volume_3.png",03x8 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%203.8.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/FUTURAMA_Volume_3.png",03x9 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%203.9.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/FUTURAMA_Volume_3.png",03x10 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%203.10.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/FUTURAMA_Volume_3.png",03x11 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%203.11.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/FUTURAMA_Volume_3.png",03x12 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%203.12.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/FUTURAMA_Volume_3.png",03x13 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%203.13.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/FUTURAMA_Volume_3.png",03x14 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%203.14.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/FUTURAMA_Volume_3.png",03x15 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%203.15.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://i.ebayimg.com/images/g/oZEAAOSwmpZkpyut/s-l500.jpg",04x1 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%204.1.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://i.ebayimg.com/images/g/oZEAAOSwmpZkpyut/s-l500.jpg",04x2 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%204.2.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://i.ebayimg.com/images/g/oZEAAOSwmpZkpyut/s-l500.jpg",04x3 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%204.3.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://i.ebayimg.com/images/g/oZEAAOSwmpZkpyut/s-l500.jpg",04x4 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%204.4.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://i.ebayimg.com/images/g/oZEAAOSwmpZkpyut/s-l500.jpg",04x5 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%204.5.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://i.ebayimg.com/images/g/oZEAAOSwmpZkpyut/s-l500.jpg",04x6 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%204.6.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://i.ebayimg.com/images/g/oZEAAOSwmpZkpyut/s-l500.jpg",04x7 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%204.7.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://i.ebayimg.com/images/g/oZEAAOSwmpZkpyut/s-l500.jpg",04x8 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%204.8.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://i.ebayimg.com/images/g/oZEAAOSwmpZkpyut/s-l500.jpg",04x9 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%204.9.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://i.ebayimg.com/images/g/oZEAAOSwmpZkpyut/s-l500.jpg",04x10 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%204.10.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://i.ebayimg.com/images/g/oZEAAOSwmpZkpyut/s-l500.jpg",04x11 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%204.11.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://i.ebayimg.com/images/g/oZEAAOSwmpZkpyut/s-l500.jpg",04x12 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%204.12.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://m.media-amazon.com/images/I/71iAJdRDEVL._AC_UF1000,1000_QL80_.jpg",05x1 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%205.1.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://m.media-amazon.com/images/I/71iAJdRDEVL._AC_UF1000,1000_QL80_.jpg",05x2 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%205.2.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://m.media-amazon.com/images/I/71iAJdRDEVL._AC_UF1000,1000_QL80_.jpg",05x3 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%205.3.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://m.media-amazon.com/images/I/71iAJdRDEVL._AC_UF1000,1000_QL80_.jpg",05x4 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%205.4.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://m.media-amazon.com/images/I/71iAJdRDEVL._AC_UF1000,1000_QL80_.jpg",05x5 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%205.5.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://m.media-amazon.com/images/I/71iAJdRDEVL._AC_UF1000,1000_QL80_.jpg",05x6 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%205.6.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://m.media-amazon.com/images/I/71iAJdRDEVL._AC_UF1000,1000_QL80_.jpg",05x7 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%205.7.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://m.media-amazon.com/images/I/71iAJdRDEVL._AC_UF1000,1000_QL80_.jpg",05x8 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%205.8.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://m.media-amazon.com/images/I/71iAJdRDEVL._AC_UF1000,1000_QL80_.jpg",05x9 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%205.9.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://m.media-amazon.com/images/I/71iAJdRDEVL._AC_UF1000,1000_QL80_.jpg",05x10 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%205.10.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://m.media-amazon.com/images/I/71iAJdRDEVL._AC_UF1000,1000_QL80_.jpg",05x11 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%205.11.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://m.media-amazon.com/images/I/71iAJdRDEVL._AC_UF1000,1000_QL80_.jpg",05x12 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%205.12.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://m.media-amazon.com/images/I/71iAJdRDEVL._AC_UF1000,1000_QL80_.jpg",05x13 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%205.13.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://m.media-amazon.com/images/I/71iAJdRDEVL._AC_UF1000,1000_QL80_.jpg",05x14 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%205.14.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://m.media-amazon.com/images/I/71iAJdRDEVL._AC_UF1000,1000_QL80_.jpg",05x15 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%205.15.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://m.media-amazon.com/images/I/71iAJdRDEVL._AC_UF1000,1000_QL80_.jpg",05x16 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%205.16.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://thesimpsonsrp.com/wp-content/uploads/2020/09/temporada-8-de-FUTURAMA.png",06x1 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%206.1.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://thesimpsonsrp.com/wp-content/uploads/2020/09/temporada-8-de-FUTURAMA.png",06x2 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%206.2.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://thesimpsonsrp.com/wp-content/uploads/2020/09/temporada-8-de-FUTURAMA.png",06x3 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%206.3.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://thesimpsonsrp.com/wp-content/uploads/2020/09/temporada-8-de-FUTURAMA.png",06x4 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%206.4.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://thesimpsonsrp.com/wp-content/uploads/2020/09/temporada-8-de-FUTURAMA.png",06x5 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%206.5.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://thesimpsonsrp.com/wp-content/uploads/2020/09/temporada-8-de-FUTURAMA.png",06x6 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%206.6.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://thesimpsonsrp.com/wp-content/uploads/2020/09/temporada-8-de-FUTURAMA.png",06x7 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%206.7.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://thesimpsonsrp.com/wp-content/uploads/2020/09/temporada-8-de-FUTURAMA.png",06x8 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%206.8.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://thesimpsonsrp.com/wp-content/uploads/2020/09/temporada-8-de-FUTURAMA.png",06x9 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%206.9.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://thesimpsonsrp.com/wp-content/uploads/2020/09/temporada-8-de-FUTURAMA.png",06x10 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%206.10.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://thesimpsonsrp.com/wp-content/uploads/2020/09/temporada-8-de-FUTURAMA.png",06x11 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%206.11.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://thesimpsonsrp.com/wp-content/uploads/2020/09/temporada-8-de-FUTURAMA.png",06x12 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%206.12.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://thesimpsonsrp.com/wp-content/uploads/2020/09/temporada-8-de-FUTURAMA.png",06x13 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%206.13.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://thesimpsonsrp.com/wp-content/uploads/2020/09/temporada-8-de-FUTURAMA.png",06x14 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%206.14.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://thesimpsonsrp.com/wp-content/uploads/2020/09/temporada-8-de-FUTURAMA.png",06x15 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%206.15.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://thesimpsonsrp.com/wp-content/uploads/2020/09/temporada-8-de-FUTURAMA.png",06x16 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%206.16.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://static.fnac-static.com/multimedia/Images/ES/NR/73/5f/11/1138547/1540-6/tsp20160822180008/FUTURAMA-Temporada-7-DVD.jpg",07x1 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%207.1.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://static.fnac-static.com/multimedia/Images/ES/NR/73/5f/11/1138547/1540-6/tsp20160822180008/FUTURAMA-Temporada-7-DVD.jpg",07x2 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%207.2.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://static.fnac-static.com/multimedia/Images/ES/NR/73/5f/11/1138547/1540-6/tsp20160822180008/FUTURAMA-Temporada-7-DVD.jpg",07x3 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%207.3.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://static.fnac-static.com/multimedia/Images/ES/NR/73/5f/11/1138547/1540-6/tsp20160822180008/FUTURAMA-Temporada-7-DVD.jpg",07x4 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%207.4.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://static.fnac-static.com/multimedia/Images/ES/NR/73/5f/11/1138547/1540-6/tsp20160822180008/FUTURAMA-Temporada-7-DVD.jpg",07x5 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%207.5.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://static.fnac-static.com/multimedia/Images/ES/NR/73/5f/11/1138547/1540-6/tsp20160822180008/FUTURAMA-Temporada-7-DVD.jpg",07x6 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%207.6.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://static.fnac-static.com/multimedia/Images/ES/NR/73/5f/11/1138547/1540-6/tsp20160822180008/FUTURAMA-Temporada-7-DVD.jpg",07x7 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%207.7.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://static.fnac-static.com/multimedia/Images/ES/NR/73/5f/11/1138547/1540-6/tsp20160822180008/FUTURAMA-Temporada-7-DVD.jpg",07x8 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%207.8.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://static.fnac-static.com/multimedia/Images/ES/NR/73/5f/11/1138547/1540-6/tsp20160822180008/FUTURAMA-Temporada-7-DVD.jpg",07x9 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%207.9.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://static.fnac-static.com/multimedia/Images/ES/NR/73/5f/11/1138547/1540-6/tsp20160822180008/FUTURAMA-Temporada-7-DVD.jpg",07x10 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%207.10.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://static.fnac-static.com/multimedia/Images/ES/NR/73/5f/11/1138547/1540-6/tsp20160822180008/FUTURAMA-Temporada-7-DVD.jpg",07x11 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%207.11.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://static.fnac-static.com/multimedia/Images/ES/NR/73/5f/11/1138547/1540-6/tsp20160822180008/FUTURAMA-Temporada-7-DVD.jpg",07x12 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%207.12.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://static.fnac-static.com/multimedia/Images/ES/NR/73/5f/11/1138547/1540-6/tsp20160822180008/FUTURAMA-Temporada-7-DVD.jpg",07x13 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%207.13.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://www.ecartelera.com/carteles-series/300/351/008.jpg",08x1 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%208.1.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://www.ecartelera.com/carteles-series/300/351/008.jpg",08x2 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%208.2.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://www.ecartelera.com/carteles-series/300/351/008.jpg",08x3 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%208.3.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://www.ecartelera.com/carteles-series/300/351/008.jpg",08x4 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%208.4.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://www.ecartelera.com/carteles-series/300/351/008.jpg",08x5 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%208.5.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://www.ecartelera.com/carteles-series/300/351/008.jpg",08x6 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%208.6.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://www.ecartelera.com/carteles-series/300/351/008.jpg",08x7 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%208.7.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://www.ecartelera.com/carteles-series/300/351/008.jpg",08x8 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%208.8.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://www.ecartelera.com/carteles-series/300/351/008.jpg",08x9 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%208.9.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://www.ecartelera.com/carteles-series/300/351/008.jpg",08x10 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%208.10.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://www.ecartelera.com/carteles-series/300/351/008.jpg",08x11 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%208.11.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://www.ecartelera.com/carteles-series/300/351/008.jpg",08x12 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%208.12.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://www.ecartelera.com/carteles-series/300/351/008.jpg",08x13 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%208.13.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/b94373d6d9aba353273bdbd4da0dbe6190b5008d9827c676b7d8a5aefa2ae5d5._RI_TTW_.jpg",09x1 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%209.1.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/b94373d6d9aba353273bdbd4da0dbe6190b5008d9827c676b7d8a5aefa2ae5d5._RI_TTW_.jpg",09x2 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%209.2.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/b94373d6d9aba353273bdbd4da0dbe6190b5008d9827c676b7d8a5aefa2ae5d5._RI_TTW_.jpg",09x3 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%209.3.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/b94373d6d9aba353273bdbd4da0dbe6190b5008d9827c676b7d8a5aefa2ae5d5._RI_TTW_.jpg",09x4 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%209.4.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/b94373d6d9aba353273bdbd4da0dbe6190b5008d9827c676b7d8a5aefa2ae5d5._RI_TTW_.jpg",09x5 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%209.5.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/b94373d6d9aba353273bdbd4da0dbe6190b5008d9827c676b7d8a5aefa2ae5d5._RI_TTW_.jpg",09x6 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%209.6.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/b94373d6d9aba353273bdbd4da0dbe6190b5008d9827c676b7d8a5aefa2ae5d5._RI_TTW_.jpg",09x7 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%209.7.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/b94373d6d9aba353273bdbd4da0dbe6190b5008d9827c676b7d8a5aefa2ae5d5._RI_TTW_.jpg",09x8 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%209.8.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/b94373d6d9aba353273bdbd4da0dbe6190b5008d9827c676b7d8a5aefa2ae5d5._RI_TTW_.jpg",09x9 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%209.9.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/b94373d6d9aba353273bdbd4da0dbe6190b5008d9827c676b7d8a5aefa2ae5d5._RI_TTW_.jpg",09x10 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%209.10.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/b94373d6d9aba353273bdbd4da0dbe6190b5008d9827c676b7d8a5aefa2ae5d5._RI_TTW_.jpg",09x11 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%209.11.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/b94373d6d9aba353273bdbd4da0dbe6190b5008d9827c676b7d8a5aefa2ae5d5._RI_TTW_.jpg",09x12 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%209.12.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/b94373d6d9aba353273bdbd4da0dbe6190b5008d9827c676b7d8a5aefa2ae5d5._RI_TTW_.jpg",09x13 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%209.13.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://www.justwatch.com/images/backdrop/306107489/s640/temporada-10",10x1 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%2010.1.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://www.justwatch.com/images/backdrop/306107489/s640/temporada-10",10x2 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%2010.2.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://www.justwatch.com/images/backdrop/306107489/s640/temporada-10",10x3 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%2010.3.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://www.justwatch.com/images/backdrop/306107489/s640/temporada-10",10x4 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%2010.4.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://www.justwatch.com/images/backdrop/306107489/s640/temporada-10",10x5 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%2010.5.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://www.justwatch.com/images/backdrop/306107489/s640/temporada-10",10x6 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%2010.6.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://www.justwatch.com/images/backdrop/306107489/s640/temporada-10",10x7 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%2010.7.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://www.justwatch.com/images/backdrop/306107489/s640/temporada-10",10x8 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%2010.8.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://www.justwatch.com/images/backdrop/306107489/s640/temporada-10",10x9 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%2010.9.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://www.justwatch.com/images/backdrop/306107489/s640/temporada-10",10x10 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%2010.10.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://www.justwatch.com/images/backdrop/306107489/s640/temporada-10",10x11 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%2010.11.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://www.justwatch.com/images/backdrop/306107489/s640/temporada-10",10x12 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%2010.12.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://www.justwatch.com/images/backdrop/306107489/s640/temporada-10",10x13 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%2010.13.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://elcomercio.pe/resizer/8ukAotFOOKIMHxG1UU_oxMeRzqk=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/BN3LOSMCHZAHDGRYAUZLFHV6VI.jpg",11x1 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%2011.1.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://elcomercio.pe/resizer/8ukAotFOOKIMHxG1UU_oxMeRzqk=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/BN3LOSMCHZAHDGRYAUZLFHV6VI.jpg",11x2 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%2011.2.mkv
+#EXTINF:-1 group-title="FUTURAMA" tvg-logo="https://elcomercio.pe/resizer/8ukAotFOOKIMHxG1UU_oxMeRzqk=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/BN3LOSMCHZAHDGRYAUZLFHV6VI.jpg",11x3 FUTURAMA
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%2011.3.mkv
 #EXTINF:-1 group-title="ANIMACION Monsters at Work" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Monstruos%20a%20la%20obra.jpg" ,Monsters at Work 1x3
 https://archive.org/download/sr-y-sra-smith/Monsters.at.Work%201x3.mp4
 #EXTINF:-1 group-title="ANIMACION Monsters at Work" tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Monstruos%20a%20la%20obra.jpg" ,Monsters at Work 1x4
