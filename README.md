@@ -1,4 +1,52 @@
 #EXTM3U 
+#EXTINF: -1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg" group-title="FORM", 01x01 FORM
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/g4t0nfrm1.1.mkv
+#EXTINF: -1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg" tvg-logo-small="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg" group-title="FORM", 01x02 FORM
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/g4t0nfrm1.2.mkv
+#EXTINF: -1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg" tvg-logo-small="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg" group-title="FORM", 01x03 FORM
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/g4t0nfrm1.3.mkv
+#EXTINF: -1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg" tvg-logo-small="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg" group-title="FORM", 01x04 FORM
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/g4t0nfrm1.4.mkv
+#EXTINF: -1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg" tvg-logo-small="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg" group-title="FORM", 01x05 FORM
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/g4t0nfrm1.5.mkv
+#EXTINF: -1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg" tvg-logo-small="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg" group-title="FORM", 01x06 FORM
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/g4t0nfrm1.6.mkv
+#EXTINF: -1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg" tvg-logo-small="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg" group-title="FORM", 01x07 FORM
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/g4t0nfrm1.7.mkv
+#EXTINF: -1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg" tvg-logo-small="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg" group-title="FORM", 01x08 FORM
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/g4t0nfrm1.8.mkv
+#EXTINF: -1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg" tvg-logo-small="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg" group-title="FORM", 01x09 FORM
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/g4t0nfrm1.9.mkv
+#EXTINF: -1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg" tvg-logo-small="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg" group-title="FORM", 01x10 FORM
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/g4t0nfrm1.10.mkv
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ffAdqaCYL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ffAdqaCYL._AC_UF894,1000_QL80_.jpg" group-title="Dr. House", 01x01 Dr. House
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NH0U53%201.1~1.mkv
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ffAdqaCYL._AC_UF894,1000_QL80_.jpg" group-title="Dr. House", 01x02 Dr. House
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NH0U53%201.2~1.mkv
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ffAdqaCYL._AC_UF894,1000_QL80_.jpg" group-title="Dr. House", 01x03 Dr. House
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NH0U53%201.3~1.mkv
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ffAdqaCYL._AC_UF894,1000_QL80_.jpg" group-title="Dr. House", 01x04 Dr. House
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NH0U53%201.4~1.mkv
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ffAdqaCYL._AC_UF894,1000_QL80_.jpg" group-title="Dr. House", 01x05 Dr. House
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NH0U53%201.5~1.mkv
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ffAdqaCYL._AC_UF894,1000_QL80_.jpg" group-title="Dr. House", 01x06 Dr. House
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NH0U53%201.6~1.mkv
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ffAdqaCYL._AC_UF894,1000_QL80_.jpg" group-title="Dr. House", 01x07 Dr. House
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NH0U53%201.7~1.mkv
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ffAdqaCYL._AC_UF894,1000_QL80_.jpg" group-title="Dr. House", 01x08 Dr. House
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NH0U53%201.8~1.mkv
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ffAdqaCYL._AC_UF894,1000_QL80_.jpg" group-title="Dr. House", 01x09 Dr. House
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NH0U53%201.9~1.mkv
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ffAdqaCYL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ffAdqaCYL._AC_UF894,1000_QL80_.jpg" group-title="Dr. House", 01x10 Dr. House
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NH0U53%201.10~1.mkv
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ffAdqaCYL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ffAdqaCYL._AC_UF894,1000_QL80_.jpg" group-title="Dr. House", 01x11 Dr. House
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NH0U53%201.11~1.mkv
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ffAdqaCYL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ffAdqaCYL._AC_UF894,1000_QL80_.jpg" group-title="Dr. House", 01x12 Dr. House
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NH0U53%201.12~1.mkv
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ffAdqaCYL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ffAdqaCYL._AC_UF894,1000_QL80_.jpg" group-title="Dr. House", 01x13 Dr. House
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NH0U53%201.13~1.mkv
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ffAdqaCYL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ffAdqaCYL._AC_UF894,1000_QL80_.jpg" group-title="Dr. House", 01x14 Dr. House
+https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NH0U53%201.14~1.mkv
 #EXTINF: -1 tvg-logo="https://archive.org/download/capitulo-7-polos-opuestos-bq/Apocalipsis%20Virtual%20-%20Cap%C3%ADtulo%20Animado%20%28BQ%29.jpg" group-title="CUARENTENA APOCALÍPTICA - LA SERIE", Apocalipsis Virtual - Capítulo Animado
 https://archive.org/download/capitulo-8-feliz-cumpleanos-senorita-1080p-60fps-h-264-128kbit-aac/Apocalipsis%20Virtual%20-%20Cap%C3%ADtulo%20Animado%20%281080p_25fps_H264-128kbit_AAC%29.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/capitulo-7-polos-opuestos-bq/Capi%CC%81tulo%202%20-%20%C2%BF%20Que%CC%81%20vas%20a%20almorzar%20hoy%20_%20%28BQ%29.jpg" group-title="CUARENTENA APOCALÍPTICA - LA SERIE", capi´tulo 2 - ¿ Que´ vas a almorzar hoy?
@@ -1027,51 +1075,3 @@ https://archive.org/download/1_20211103/28-1%20%2822%29.mp4
 https://archive.org/download/1_20211103/28-1%20%2823%29.mp4
 #EXTINF: -1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_999515-MLM25263693846_012017-O.jpg" group-title="The Big Bang Theory", 4X24 The Big Bang Theory
 https://archive.org/download/1_20211103/28-1%20%2824%29.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ffAdqaCYL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ffAdqaCYL._AC_UF894,1000_QL80_.jpg" group-title="Dr. House", 01x01 Dr. House
-https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NH0U53%201.1~1.mkv
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ffAdqaCYL._AC_UF894,1000_QL80_.jpg" group-title="Dr. House", 01x02 Dr. House
-https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NH0U53%201.2~1.mkv
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ffAdqaCYL._AC_UF894,1000_QL80_.jpg" group-title="Dr. House", 01x03 Dr. House
-https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NH0U53%201.3~1.mkv
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ffAdqaCYL._AC_UF894,1000_QL80_.jpg" group-title="Dr. House", 01x04 Dr. House
-https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NH0U53%201.4~1.mkv
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ffAdqaCYL._AC_UF894,1000_QL80_.jpg" group-title="Dr. House", 01x05 Dr. House
-https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NH0U53%201.5~1.mkv
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ffAdqaCYL._AC_UF894,1000_QL80_.jpg" group-title="Dr. House", 01x06 Dr. House
-https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NH0U53%201.6~1.mkv
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ffAdqaCYL._AC_UF894,1000_QL80_.jpg" group-title="Dr. House", 01x07 Dr. House
-https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NH0U53%201.7~1.mkv
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ffAdqaCYL._AC_UF894,1000_QL80_.jpg" group-title="Dr. House", 01x08 Dr. House
-https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NH0U53%201.8~1.mkv
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ffAdqaCYL._AC_UF894,1000_QL80_.jpg" group-title="Dr. House", 01x09 Dr. House
-https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NH0U53%201.9~1.mkv
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ffAdqaCYL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ffAdqaCYL._AC_UF894,1000_QL80_.jpg" group-title="Dr. House", 01x10 Dr. House
-https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NH0U53%201.10~1.mkv
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ffAdqaCYL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ffAdqaCYL._AC_UF894,1000_QL80_.jpg" group-title="Dr. House", 01x11 Dr. House
-https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NH0U53%201.11~1.mkv
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ffAdqaCYL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ffAdqaCYL._AC_UF894,1000_QL80_.jpg" group-title="Dr. House", 01x12 Dr. House
-https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NH0U53%201.12~1.mkv
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ffAdqaCYL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ffAdqaCYL._AC_UF894,1000_QL80_.jpg" group-title="Dr. House", 01x13 Dr. House
-https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NH0U53%201.13~1.mkv
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/I/81ffAdqaCYL._AC_UF894,1000_QL80_.jpg" tvg-logo-small="https://m.media-amazon.com/images/I/81ffAdqaCYL._AC_UF894,1000_QL80_.jpg" group-title="Dr. House", 01x14 Dr. House
-https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NH0U53%201.14~1.mkv
-#EXTINF: -1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg" group-title="FORM", 01x01 FORM
-https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/g4t0nfrm1.1.mkv
-#EXTINF: -1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg" tvg-logo-small="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg" group-title="FORM", 01x02 FORM
-https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/g4t0nfrm1.2.mkv
-#EXTINF: -1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg" tvg-logo-small="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg" group-title="FORM", 01x03 FORM
-https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/g4t0nfrm1.3.mkv
-#EXTINF: -1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg" tvg-logo-small="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg" group-title="FORM", 01x04 FORM
-https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/g4t0nfrm1.4.mkv
-#EXTINF: -1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg" tvg-logo-small="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg" group-title="FORM", 01x05 FORM
-https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/g4t0nfrm1.5.mkv
-#EXTINF: -1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg" tvg-logo-small="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg" group-title="FORM", 01x06 FORM
-https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/g4t0nfrm1.6.mkv
-#EXTINF: -1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg" tvg-logo-small="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg" group-title="FORM", 01x07 FORM
-https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/g4t0nfrm1.7.mkv
-#EXTINF: -1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg" tvg-logo-small="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg" group-title="FORM", 01x08 FORM
-https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/g4t0nfrm1.8.mkv
-#EXTINF: -1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg" tvg-logo-small="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg" group-title="FORM", 01x09 FORM
-https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/g4t0nfrm1.9.mkv
-#EXTINF: -1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg" tvg-logo-small="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg" group-title="FORM", 01x10 FORM
-https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/g4t0nfrm1.10.mkv
