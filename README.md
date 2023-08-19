@@ -1,4 +1,174 @@
 #EXTM3U 
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x03 Alf
+https://archive.org/download/01x-19_20230818/01x03.mkv
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x04 Alf
+https://archive.org/download/01x-19_20230818/01x04.mkv
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x05 Alf
+https://archive.org/download/01x-19_20230818/01x05.mkv
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x06 Alf
+https://archive.org/download/01x-19_20230818/01x06.mkv
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x07 Alf
+https://archive.org/download/01x-19_20230818/01x07.mkv
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x08 Alf
+https://archive.org/download/01x-19_20230818/01x08.mkv
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x09 Alf
+https://archive.org/download/01x-19_20230818/01x09.mkv
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x10 Alf
+https://archive.org/download/01x-19_20230818/01x10.mkv
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x11 Alf
+https://archive.org/download/01x-19_20230818/01x11.mkv
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x12 Alf
+https://archive.org/download/01x-19_20230818/01x12.mkv
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x13 Alf
+https://archive.org/download/01x-19_20230818/01x13.mkv
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x14 Alf
+https://archive.org/download/01x-19_20230818/01x14.mkv
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x15 Alf
+https://archive.org/download/01x-19_20230818/01x15.mkv
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x16 Alf
+https://archive.org/download/01x-19_20230818/01x16.mkv
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x17 Alf
+https://archive.org/download/01x-19_20230818/01x17.mkv
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x18 Alf
+https://archive.org/download/01x-19_20230818/01x18.mkv
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x19 Alf
+https://archive.org/download/01x-19_20230818/01x19.mkv
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x20 Alf
+https://archive.org/download/01x-19_20230818/01x20.mkv
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x21 Alf
+https://archive.org/download/01x-19_20230818/01x21.mkv
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x22 Alf
+https://archive.org/download/01x-19_20230818/01x22.mkv
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x23 Alf
+https://archive.org/download/01x-19_20230818/01x23.mkv
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x24 Alf
+https://archive.org/download/01x-19_20230818/01x24.mkv
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x25 Alf
+https://archive.org/download/01x-19_20230818/01x25.mkv
+#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x26 Alf
+https://archive.org/download/01x-19_20230818/01x26.mkv
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x01 Alf
+https://archive.org/download/01x-19_20230818/02x01.mkv
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x02 Alf
+https://archive.org/download/01x-19_20230818/02x02.mkv
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x03 Alf
+https://archive.org/download/01x-19_20230818/02x03.mkv
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x04 Alf
+https://archive.org/download/01x-19_20230818/02x04.mkv
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x05 Alf
+https://archive.org/download/01x-19_20230818/02x05.mkv
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x06 Alf
+https://archive.org/download/01x-19_20230818/02x06.mkv
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x07 Alf
+https://archive.org/download/01x-19_20230818/02x07.mkv
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x08 Alf
+https://archive.org/download/01x-19_20230818/02x08.mkv
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x09 Alf
+https://archive.org/download/01x-19_20230818/02x09.mkv
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x10 Alf
+https://archive.org/download/01x-19_20230818/02x10.mkv
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x11 Alf
+https://archive.org/download/01x-19_20230818/02x11.mkv
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x12 Alf
+https://archive.org/download/01x-19_20230818/02x12.mkv
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x13 Alf
+https://archive.org/download/01x-19_20230818/02x13.mkv
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x14 Alf
+https://archive.org/download/01x-19_20230818/02x14.mkv
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x15 Alf
+https://archive.org/download/01x-19_20230818/02x15.mkv
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x16 Alf
+https://archive.org/download/01x-19_20230818/02x16.mkv
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x17 Alf
+https://archive.org/download/01x-19_20230818/02x17.mkv
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x18 Alf
+https://archive.org/download/01x-19_20230818/02x18.mkv
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x19 Alf
+https://archive.org/download/01x-19_20230818/02x19.mkv
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x20 Alf
+https://archive.org/download/01x-19_20230818/02x20.mkv
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x21 Alf
+https://archive.org/download/01x-19_20230818/02x21.mkv
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x22 Alf
+https://archive.org/download/01x-19_20230818/02x22.mkv
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x23 Alf
+https://archive.org/download/01x-19_20230818/02x23.mkv
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x24 Alf
+https://archive.org/download/01x-19_20230818/02x24.mkv
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x25 Alf
+https://archive.org/download/01x-19_20230818/02x25.mkv
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x26 Alf
+https://archive.org/download/01x-19_20230818/02x26.mkv
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x01 Alf
+https://archive.org/download/01x-19_20230818/03x01.mkv
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x02 Alf
+https://archive.org/download/01x-19_20230818/03x02.mkv
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x03 Alf
+https://archive.org/download/01x-19_20230818/03x03.mkv
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x04 Alf
+https://archive.org/download/01x-19_20230818/03x04.mkv
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x05 Alf
+https://archive.org/download/01x-19_20230818/03x05.mkv
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x06 Alf
+https://archive.org/download/01x-19_20230818/03x06.mkv
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x07 Alf
+https://archive.org/download/01x-19_20230818/03x07.mkv
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x08 Alf
+https://archive.org/download/01x-19_20230818/03x08.mkv
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x09 Alf
+https://archive.org/download/01x-19_20230818/03x09.mkv
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x10 Alf
+https://archive.org/download/01x-19_20230818/02x10.mkv
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x11 Alf
+https://archive.org/download/01x-19_20230818/02x11.mkv
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x12 Alf
+https://archive.org/download/01x-19_20230818/02x12.mkv
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x13 Alf
+https://archive.org/download/01x-19_20230818/02x13.mkv
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x14 Alf
+https://archive.org/download/01x-19_20230818/02x14.mkv
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x15 Alf
+https://archive.org/download/01x-19_20230818/02x15.mkv
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x16 Alf
+https://archive.org/download/01x-19_20230818/02x16.mkv
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x17 Alf
+https://archive.org/download/01x-19_20230818/02x17.mkv
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x18 Alf
+https://archive.org/download/01x-19_20230818/02x18.mkv
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x19 Alf
+https://archive.org/download/01x-19_20230818/02x19.mkv
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x20 Alf
+https://archive.org/download/01x-19_20230818/02x20.mkv
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x21 Alf
+https://archive.org/download/01x-19_20230818/02x21.mkv
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x22 Alf
+https://archive.org/download/01x-19_20230818/02x22.mkv
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x23 Alf
+https://archive.org/download/01x-19_20230818/02x23.mkv
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x24 Alf
+https://archive.org/download/01x-19_20230818/02x24.mkv
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x25 Alf
+https://archive.org/download/01x-19_20230818/02x25.mkv
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x26 Alf
+https://archive.org/download/01x-19_20230818/02x26.mkv
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910127/s718/temporada-4.%7Bformat%7D" tvg-logo-small="https://images.justwatch.com/poster/39910127/s718/temporada-4.%7Bformat%7D" group-title="ALF", 04x01 Alf
+https://archive.org/download/01x-19_20230818/04x01.mkv
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910127/s718/temporada-4.%7Bformat%7D" tvg-logo-small="https://images.justwatch.com/poster/39910127/s718/temporada-4.%7Bformat%7D" group-title="ALF", 04x02 Alf
+https://archive.org/download/01x-19_20230818/04x02.mkv
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910127/s718/temporada-4.%7Bformat%7D" tvg-logo-small="https://images.justwatch.com/poster/39910127/s718/temporada-4.%7Bformat%7D" group-title="ALF", 04x03 Alf
+https://archive.org/download/01x-19_20230818/04x03.mkv
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910127/s718/temporada-4.%7Bformat%7D" tvg-logo-small="https://images.justwatch.com/poster/39910127/s718/temporada-4.%7Bformat%7D" group-title="ALF", 04x04 Alf
+https://archive.org/download/01x-19_20230818/04x04.mkv
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910127/s718/temporada-4.%7Bformat%7D" tvg-logo-small="https://images.justwatch.com/poster/39910127/s718/temporada-4.%7Bformat%7D" group-title="ALF", 04x05 Alf
+https://archive.org/download/01x-19_20230818/04x05.mkv
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910127/s718/temporada-4.%7Bformat%7D" tvg-logo-small="https://images.justwatch.com/poster/39910127/s718/temporada-4.%7Bformat%7D" group-title="ALF", 04x06 Alf
+https://archive.org/download/01x-19_20230818/04x06.mkv
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910127/s718/temporada-4.%7Bformat%7D" tvg-logo-small="https://images.justwatch.com/poster/39910127/s718/temporada-4.%7Bformat%7D" group-title="ALF", 04x07 Alf
+https://archive.org/download/01x-19_20230818/04x07.mkv
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910127/s718/temporada-4.%7Bformat%7D" tvg-logo-small="https://images.justwatch.com/poster/39910127/s718/temporada-4.%7Bformat%7D" group-title="ALF", 04x08 Alf
+https://archive.org/download/01x-19_20230818/04x08.mkv
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910127/s718/temporada-4.%7Bformat%7D" tvg-logo-small="https://images.justwatch.com/poster/39910127/s718/temporada-4.%7Bformat%7D" group-title="ALF", 04x10 Alf
+https://archive.org/download/01x-19_20230818/04x10.mkv
 #EXTINF: -1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg" group-title="FORM", 01x01 FORM
 https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/g4t0nfrm1.1.mkv
 #EXTINF: -1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg" tvg-logo-small="https://www.lavanguardia.com/peliculas-series/images/serie/poster/2022/2/w1280/pnrv8tfOcWxu4CrB8N7xK0jYJsR.jpg" group-title="FORM", 01x02 FORM
@@ -1075,173 +1245,3 @@ https://archive.org/download/1_20211103/28-1%20%2822%29.mp4
 https://archive.org/download/1_20211103/28-1%20%2823%29.mp4
 #EXTINF: -1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_999515-MLM25263693846_012017-O.jpg" group-title="The Big Bang Theory", 4X24 The Big Bang Theory
 https://archive.org/download/1_20211103/28-1%20%2824%29.mp4
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x03 Alf
-https://archive.org/download/01x-19_20230818/01x03.mkv
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x04 Alf
-https://archive.org/download/01x-19_20230818/01x04.mkv
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x05 Alf
-https://archive.org/download/01x-19_20230818/01x05.mkv
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x06 Alf
-https://archive.org/download/01x-19_20230818/01x06.mkv
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x07 Alf
-https://archive.org/download/01x-19_20230818/01x07.mkv
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x08 Alf
-https://archive.org/download/01x-19_20230818/01x08.mkv
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x09 Alf
-https://archive.org/download/01x-19_20230818/01x09.mkv
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x10 Alf
-https://archive.org/download/01x-19_20230818/01x10.mkv
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x11 Alf
-https://archive.org/download/01x-19_20230818/01x11.mkv
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x12 Alf
-https://archive.org/download/01x-19_20230818/01x12.mkv
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x13 Alf
-https://archive.org/download/01x-19_20230818/01x13.mkv
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x14 Alf
-https://archive.org/download/01x-19_20230818/01x14.mkv
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x15 Alf
-https://archive.org/download/01x-19_20230818/01x15.mkv
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x16 Alf
-https://archive.org/download/01x-19_20230818/01x16.mkv
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x17 Alf
-https://archive.org/download/01x-19_20230818/01x17.mkv
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x18 Alf
-https://archive.org/download/01x-19_20230818/01x18.mkv
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x19 Alf
-https://archive.org/download/01x-19_20230818/01x19.mkv
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x20 Alf
-https://archive.org/download/01x-19_20230818/01x20.mkv
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x21 Alf
-https://archive.org/download/01x-19_20230818/01x21.mkv
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x22 Alf
-https://archive.org/download/01x-19_20230818/01x22.mkv
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x23 Alf
-https://archive.org/download/01x-19_20230818/01x23.mkv
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x24 Alf
-https://archive.org/download/01x-19_20230818/01x24.mkv
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x25 Alf
-https://archive.org/download/01x-19_20230818/01x25.mkv
-#EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x26 Alf
-https://archive.org/download/01x-19_20230818/01x26.mkv
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x01 Alf
-https://archive.org/download/01x-19_20230818/02x01.mkv
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x02 Alf
-https://archive.org/download/01x-19_20230818/02x02.mkv
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x03 Alf
-https://archive.org/download/01x-19_20230818/02x03.mkv
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x04 Alf
-https://archive.org/download/01x-19_20230818/02x04.mkv
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x05 Alf
-https://archive.org/download/01x-19_20230818/02x05.mkv
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x06 Alf
-https://archive.org/download/01x-19_20230818/02x06.mkv
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x07 Alf
-https://archive.org/download/01x-19_20230818/02x07.mkv
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x08 Alf
-https://archive.org/download/01x-19_20230818/02x08.mkv
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x09 Alf
-https://archive.org/download/01x-19_20230818/02x09.mkv
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x10 Alf
-https://archive.org/download/01x-19_20230818/02x10.mkv
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x11 Alf
-https://archive.org/download/01x-19_20230818/02x11.mkv
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x12 Alf
-https://archive.org/download/01x-19_20230818/02x12.mkv
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x13 Alf
-https://archive.org/download/01x-19_20230818/02x13.mkv
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x14 Alf
-https://archive.org/download/01x-19_20230818/02x14.mkv
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x15 Alf
-https://archive.org/download/01x-19_20230818/02x15.mkv
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x16 Alf
-https://archive.org/download/01x-19_20230818/02x16.mkv
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x17 Alf
-https://archive.org/download/01x-19_20230818/02x17.mkv
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x18 Alf
-https://archive.org/download/01x-19_20230818/02x18.mkv
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x19 Alf
-https://archive.org/download/01x-19_20230818/02x19.mkv
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x20 Alf
-https://archive.org/download/01x-19_20230818/02x20.mkv
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x21 Alf
-https://archive.org/download/01x-19_20230818/02x21.mkv
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x22 Alf
-https://archive.org/download/01x-19_20230818/02x22.mkv
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x23 Alf
-https://archive.org/download/01x-19_20230818/02x23.mkv
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x24 Alf
-https://archive.org/download/01x-19_20230818/02x24.mkv
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x25 Alf
-https://archive.org/download/01x-19_20230818/02x25.mkv
-#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" tvg-logo-small="https://es.web.img3.acsta.net/pictures/19/09/24/08/49/0398464.jpg" group-title="ALF", 02x26 Alf
-https://archive.org/download/01x-19_20230818/02x26.mkv
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x01 Alf
-https://archive.org/download/01x-19_20230818/03x01.mkv
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x02 Alf
-https://archive.org/download/01x-19_20230818/03x02.mkv
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x03 Alf
-https://archive.org/download/01x-19_20230818/03x03.mkv
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x04 Alf
-https://archive.org/download/01x-19_20230818/03x04.mkv
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x05 Alf
-https://archive.org/download/01x-19_20230818/03x05.mkv
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x06 Alf
-https://archive.org/download/01x-19_20230818/03x06.mkv
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x07 Alf
-https://archive.org/download/01x-19_20230818/03x07.mkv
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x08 Alf
-https://archive.org/download/01x-19_20230818/03x08.mkv
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x09 Alf
-https://archive.org/download/01x-19_20230818/03x09.mkv
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x10 Alf
-https://archive.org/download/01x-19_20230818/02x10.mkv
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x11 Alf
-https://archive.org/download/01x-19_20230818/02x11.mkv
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x12 Alf
-https://archive.org/download/01x-19_20230818/02x12.mkv
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x13 Alf
-https://archive.org/download/01x-19_20230818/02x13.mkv
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x14 Alf
-https://archive.org/download/01x-19_20230818/02x14.mkv
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x15 Alf
-https://archive.org/download/01x-19_20230818/02x15.mkv
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x16 Alf
-https://archive.org/download/01x-19_20230818/02x16.mkv
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x17 Alf
-https://archive.org/download/01x-19_20230818/02x17.mkv
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x18 Alf
-https://archive.org/download/01x-19_20230818/02x18.mkv
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x19 Alf
-https://archive.org/download/01x-19_20230818/02x19.mkv
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x20 Alf
-https://archive.org/download/01x-19_20230818/02x20.mkv
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x21 Alf
-https://archive.org/download/01x-19_20230818/02x21.mkv
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x22 Alf
-https://archive.org/download/01x-19_20230818/02x22.mkv
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x23 Alf
-https://archive.org/download/01x-19_20230818/02x23.mkv
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x24 Alf
-https://archive.org/download/01x-19_20230818/02x24.mkv
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x25 Alf
-https://archive.org/download/01x-19_20230818/02x25.mkv
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910130/s592/temporada-3" tvg-logo-small="https://images.justwatch.com/poster/39910130/s592/temporada-3" group-title="ALF", 03x26 Alf
-https://archive.org/download/01x-19_20230818/02x26.mkv
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910127/s718/temporada-4.%7Bformat%7D" tvg-logo-small="https://images.justwatch.com/poster/39910127/s718/temporada-4.%7Bformat%7D" group-title="ALF", 04x01 Alf
-https://archive.org/download/01x-19_20230818/04x01.mkv
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910127/s718/temporada-4.%7Bformat%7D" tvg-logo-small="https://images.justwatch.com/poster/39910127/s718/temporada-4.%7Bformat%7D" group-title="ALF", 04x02 Alf
-https://archive.org/download/01x-19_20230818/04x02.mkv
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910127/s718/temporada-4.%7Bformat%7D" tvg-logo-small="https://images.justwatch.com/poster/39910127/s718/temporada-4.%7Bformat%7D" group-title="ALF", 04x03 Alf
-https://archive.org/download/01x-19_20230818/04x03.mkv
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910127/s718/temporada-4.%7Bformat%7D" tvg-logo-small="https://images.justwatch.com/poster/39910127/s718/temporada-4.%7Bformat%7D" group-title="ALF", 04x04 Alf
-https://archive.org/download/01x-19_20230818/04x04.mkv
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910127/s718/temporada-4.%7Bformat%7D" tvg-logo-small="https://images.justwatch.com/poster/39910127/s718/temporada-4.%7Bformat%7D" group-title="ALF", 04x05 Alf
-https://archive.org/download/01x-19_20230818/04x05.mkv
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910127/s718/temporada-4.%7Bformat%7D" tvg-logo-small="https://images.justwatch.com/poster/39910127/s718/temporada-4.%7Bformat%7D" group-title="ALF", 04x06 Alf
-https://archive.org/download/01x-19_20230818/04x06.mkv
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910127/s718/temporada-4.%7Bformat%7D" tvg-logo-small="https://images.justwatch.com/poster/39910127/s718/temporada-4.%7Bformat%7D" group-title="ALF", 04x07 Alf
-https://archive.org/download/01x-19_20230818/04x07.mkv
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910127/s718/temporada-4.%7Bformat%7D" tvg-logo-small="https://images.justwatch.com/poster/39910127/s718/temporada-4.%7Bformat%7D" group-title="ALF", 04x08 Alf
-https://archive.org/download/01x-19_20230818/04x08.mkv
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/39910127/s718/temporada-4.%7Bformat%7D" tvg-logo-small="https://images.justwatch.com/poster/39910127/s718/temporada-4.%7Bformat%7D" group-title="ALF", 04x10 Alf
-https://archive.org/download/01x-19_20230818/04x10.mkv
