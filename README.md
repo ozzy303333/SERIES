@@ -1,4 +1,136 @@
 #EXTM3U 
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x01 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.01-.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x02 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.02-.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x03 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.03-.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x04 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.04-.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x05 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.05-.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x06 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.06-.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x07 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.07-.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x08 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.08-.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x09 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.09-.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x10 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.10.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x11 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.12.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x12 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.12.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x13 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.13.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x14 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.14.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x15 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.15.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x16 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.16.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x17 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.17.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x18 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.18.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x19 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.19.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x20 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.20.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x21 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.21.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x22 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.22.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x23 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.23.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x24 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.24.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x24 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.25.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x26 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.26.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x27 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.27.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x28 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.28.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x29 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.29.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x30 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.30.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x31 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.31.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x32 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.32.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x33 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.33.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x34 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.34.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x35 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.35.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x36 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.36.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x37 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.37.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x38 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.38.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x39 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.39.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x40 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.40.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x41 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.41.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x42 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.42.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x43 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.43.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x44 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.44.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x44 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.44.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x45 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.45.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x46 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.46.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x47 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.47.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x48 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.48.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x49 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.49.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x50 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.50.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x51 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.51.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x52 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.52.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x53 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.53.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x54 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.54.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x54 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.54.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x55 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.55.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x56 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.56.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x57 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.57.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x58 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.58.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x59 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.59.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x60 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.60.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x61 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.61.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x62 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.62.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x63 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.63.mkv
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x64 Dragon Ball GT
+https://archive.org/download/phantom-t-01-xe-16/DBGT.64.mkv
 #EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x01 Alf
 https://archive.org/download/01x-19_20230818/A01x01.mkv
 #EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x02 Alf
