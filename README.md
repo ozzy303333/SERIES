@@ -131,6 +131,316 @@ https://archive.org/download/phantom-t-01-xe-16/DBGT.62.mkv
 https://archive.org/download/phantom-t-01-xe-16/DBGT.63.mkv
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x64 Dragon Ball GT
 https://archive.org/download/phantom-t-01-xe-16/DBGT.64.mkv
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x01 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20001.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x02 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20002.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x03 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20003.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x04 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20004.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x05 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20005.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x06 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20006.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x07 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20007.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x08 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20008.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x09 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20009.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x10 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20010.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x11 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20011.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x12 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20012.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x13 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20013.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x14 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20014.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x15 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20015.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x16 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20016.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x17 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20017.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x18 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20018.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x19 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20019.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x20 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20020.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x21 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20021.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x22 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20022.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x23 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20023.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x24 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20024.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x25 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20025.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x26 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%2026mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x27 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%2027mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x28 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20028.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x29 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20029.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x30 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20030.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x31 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20031.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x31 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20031.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x32 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20032.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x32 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20032.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x33 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20033.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x34 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20034.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x35 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20035.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x36 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20036.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x37 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20037.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x38 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20038.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x39 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20039.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x40 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20040.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x41 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20041.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x42 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20042.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x43 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20043.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x44 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20044.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x45 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20045.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x46 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20046.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x47 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20047.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x48 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20048.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x49 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20049.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x50 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20050.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x51 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20051.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x52 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20052.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x53 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20053.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x54 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20054.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x55 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20055.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x56 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20055.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x57 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20057.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x58 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20058.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x59 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20059.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x60 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20060.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x61 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20061.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x62 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20062.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x63 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20063.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x64 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20064.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x65 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20065.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x66 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20066.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x67 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20067.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x68 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20068.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x69 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20069.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x70 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20070.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x71 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20071.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x72 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20072.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x73 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20073.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x74 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20074.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x75 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20075.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x76 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20076.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x77 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20077.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x78 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20078.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x79 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20079.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x80 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20080.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x81 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20081.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x82 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20082.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x83 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20083.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x84 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20084.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x85 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20085.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x86 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20086.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x87 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20087.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x88 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20088.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x89 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20089.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x90 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20090.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x91 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20091.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x92 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20092.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x93 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20093.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x94 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20094.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x95 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20095.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x96 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20096.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x97 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20097.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x98 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20098.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x99 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20099.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x100 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20100.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x101 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20101.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x102 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20102.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x103 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20103.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x104 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20104.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x105 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20105.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x106 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20106.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x107 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20107.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x108 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20108.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x109 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20109.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x110 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20110.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x111 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20111.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x112 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20112.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x113 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20113.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x114 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20114.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x115 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20115.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x116 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20116.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x117 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20117.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x118 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20118.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x119 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20119.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x120 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20120.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x121 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20121.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x122 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20122.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x123 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20123.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x124 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20124.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x125 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20125.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x126 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20126.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x127 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20127.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x128 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20128.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x129 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20129.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x130 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20130.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x131 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20131.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x132 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20132.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" group-title="Dragon Ball", 01x133 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20133.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="|" group-title="Dragon Ball", 01x134 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20134.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="|" group-title="Dragon Ball", 01x135 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20135.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="|" group-title="Dragon Ball", 01x136 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20136.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="|" group-title="Dragon Ball", 01x137 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20137.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="|" group-title="Dragon Ball", 01x138 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20138.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="|" group-title="Dragon Ball", 01x139 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20139.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="|" group-title="Dragon Ball", 01x140 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20140.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="|" group-title="Dragon Ball", 01x141 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20141.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="|" group-title="Dragon Ball", 01x142 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20142.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="|" group-title="Dragon Ball", 01x143 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20143.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="|" group-title="Dragon Ball", 01x144 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20144.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="|" group-title="Dragon Ball", 01x145 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20145.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="|" group-title="Dragon Ball", 01x146 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20146.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="|" group-title="Dragon Ball", 01x147 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20147.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="|" group-title="Dragon Ball", 01x148 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20148.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="|" group-title="Dragon Ball", 01x149 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20149.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="|" group-title="Dragon Ball", 01x150 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20150.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="|" group-title="Dragon Ball", 01x151 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20151.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="|" group-title="Dragon Ball", 01x152 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20152.mp4
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-pumrJZ2GM_w/V8Slqi0nK9I/AAAAAAAAABw/3FjHha8bgUEKD0dgJrBLwV_64MqoeQDlwCK4B/w1200-h630-p-k-no-nu/dragon_ball___logo_by_shikomt_by_shimomt-d8vx5uc.png" tvg-logo-small="|" group-title="Dragon Ball", 01x153 Dragon Ball
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20153.mp4
 #EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x01 Alf
 https://archive.org/download/01x-19_20230818/A01x01.mkv
 #EXTINF: -1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYmRhNzk2YWUtNWIxNC00YWM3LWI5ODEtN2IwOGQzYWEwMWJjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg" group-title="ALF", 01x02 Alf
