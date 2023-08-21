@@ -1,4 +1,586 @@
 #EXTM3U 
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x01 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20154%20Dragon%20Ball%20Z%20001.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x02 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20155%20Dragon%20Ball%20Z%20002.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x03 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20156%20Dragon%20Ball%20Z%20003.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x04 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20157%20Dragon%20Ball%20Z%20004.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x05 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20158%20Dragon%20Ball%20Z%20005.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x06 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20159%20Dragon%20Ball%20Z%20006.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x07 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20160%20Dragon%20Ball%20Z%20007.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x08 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20161%20Dragon%20Ball%20Z%20008.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x09 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20162%20Dragon%20Ball%20Z%20009.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x10 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20163%20Dragon%20Ball%20Z%20010.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x11 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20164%20Dragon%20Ball%20Z%20011.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x12 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20165%20Dragon%20Ball%20Z%20012.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x13 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20166%20Dragon%20Ball%20Z%20013.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x14 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20167%20Dragon%20Ball%20Z%20014.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x15 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20168%20Dragon%20Ball%20Z%20015.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x16 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20169%20Dragon%20Ball%20Z%20016.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x17 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20170%20Dragon%20Ball%20Z%20017.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x18 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20171%20Dragon%20Ball%20Z%20018.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x19 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20172%20Dragon%20Ball%20Z%20019.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x20 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20173%20Dragon%20Ball%20Z%20020.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x21 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20174%20Dragon%20Ball%20Z%20021.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x22 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20175%20Dragon%20Ball%20Z%20022.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x23 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20176%20Dragon%20Ball%20Z%20023.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x24 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20177%20Dragon%20Ball%20Z%20024.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x25 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20178%20Dragon%20Ball%20Z%20025.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x26 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20179%20Dragon%20Ball%20Z%20026.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x27 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20180%20Dragon%20Ball%20Z%20027.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x28 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20181%20Dragon%20Ball%20Z%20028.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x29 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20182%20Dragon%20Ball%20Z%20029.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x30 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20183%20Dragon%20Ball%20Z%20030.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x31 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20184%20Dragon%20Ball%20Z%20031.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x32 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20185%20Dragon%20Ball%20Z%20032.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x33 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20186%20Dragon%20Ball%20Z%20033.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x34 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20187%20Dragon%20Ball%20Z%20034.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x35 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20188%20Dragon%20Ball%20Z%20035.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x36 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20189%20Dragon%20Ball%20Z%20036.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x37 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20190%20Dragon%20Ball%20Z%20037.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x38 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20191%20Dragon%20Ball%20Z%20038.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x39 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20192%20Dragon%20Ball%20Z%20039.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x40 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20193%20Dragon%20Ball%20Z%20040.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x41 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20194%20Dragon%20Ball%20Z%20041.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x42 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20195%20Dragon%20Ball%20Z%20042.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x43 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20196%20Dragon%20Ball%20Z%20043.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x44 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20197%20Dragon%20Ball%20Z%20044.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x45 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20198%20Dragon%20Ball%20Z%20045.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x46 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20199%20Dragon%20Ball%20Z%20046.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x47 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20200%20Dragon%20Ball%20Z%20047.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x48 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20201%20Dragon%20Ball%20Z%20048.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x49 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20202%20Dragon%20Ball%20Z%20049.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x50 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20203%20Dragon%20Ball%20Z%20050.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x51 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20204%20Dragon%20Ball%20Z%20051.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x52 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20205%20Dragon%20Ball%20Z%20052.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x53 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20206%20Dragon%20Ball%20Z%20053.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x54 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20207%20Dragon%20Ball%20Z%20054.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x55 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20208%20Dragon%20Ball%20Z%20055.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x56 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20209%20Dragon%20Ball%20Z%20056.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x57 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20210%20Dragon%20Ball%20Z%20057.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x58 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20211%20Dragon%20Ball%20Z%20058.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x59 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20212%20Dragon%20Ball%20Z%20059.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x60 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20213%20Dragon%20Ball%20Z%20060.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x61 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20214%20Dragon%20Ball%20Z%20061.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x62 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20215%20Dragon%20Ball%20Z%20062.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x63 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20216%20Dragon%20Ball%20Z%20063.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x64 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20217%20Dragon%20Ball%20Z%20064.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x65 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20218%20Dragon%20Ball%20Z%20065.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x66 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20219%20Dragon%20Ball%20Z%20066.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x67 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20220%20Dragon%20Ball%20Z%20067.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x68 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20221%20Dragon%20Ball%20Z%20068.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x69 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20222%20Dragon%20Ball%20Z%20069.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x70 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20223%20Dragon%20Ball%20Z%20070.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x71 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20224%20Dragon%20Ball%20Z%20071.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x72 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20225%20Dragon%20Ball%20Z%20072.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x73 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20226%20Dragon%20Ball%20Z%20073.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x74 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20227%20Dragon%20Ball%20Z%20074.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x75 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20228%20Dragon%20Ball%20Z%20075.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x76 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20229%20Dragon%20Ball%20Z%20076.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x77 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20230%20Dragon%20Ball%20Z%20077.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x78 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20231%20Dragon%20Ball%20Z%20078.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x79 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20232%20Dragon%20Ball%20Z%20079.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x80 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20233%20Dragon%20Ball%20Z%20080.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x81 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20234%20Dragon%20Ball%20Z%20081.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x82 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20235%20Dragon%20Ball%20Z%20082.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x83 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20236%20Dragon%20Ball%20Z%20083.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x84 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20237%20Dragon%20Ball%20Z%20084.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x85 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20238%20Dragon%20Ball%20Z%20085.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x86 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20239%20Dragon%20Ball%20Z%20086.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x87 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20240%20Dragon%20Ball%20Z%20087.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x88 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20241%20Dragon%20Ball%20Z%20088.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x89 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20242%20Dragon%20Ball%20Z%20089.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x90 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20243%20Dragon%20Ball%20Z%20090.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x91 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20244%20Dragon%20Ball%20Z%20091.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x92 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20245%20Dragon%20Ball%20Z%20092.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x93 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20246%20Dragon%20Ball%20Z%20093.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x94 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20247%20Dragon%20Ball%20Z%20094.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x95 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20248%20Dragon%20Ball%20Z%20095.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x96 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20249%20Dragon%20Ball%20Z%20096.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x97 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20250%20Dragon%20Ball%20Z%20097.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x98 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20251%20Dragon%20Ball%20Z%20098.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x99 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20252%20Dragon%20Ball%20Z%20099.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x100 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20253%20Dragon%20Ball%20Z%20100.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x101 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20254%20Dragon%20Ball%20Z%20101.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x102 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20255%20Dragon%20Ball%20Z%20102.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x103 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20256%20Dragon%20Ball%20Z%20103.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x104 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20257%20Dragon%20Ball%20Z%20104.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x105 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20258%20Dragon%20Ball%20Z%20105.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x106 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20259%20Dragon%20Ball%20Z%20106.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x107 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20260%20Dragon%20Ball%20Z%20107.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x108 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20261%20Dragon%20Ball%20Z%20108.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x109 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20262%20Dragon%20Ball%20Z%20109.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x110 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20263%20Dragon%20Ball%20Z%20110.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x111 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20264%20Dragon%20Ball%20Z%20111.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x112 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20265%20Dragon%20Ball%20Z%20112.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x113 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20266%20Dragon%20Ball%20Z%20113.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x114 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20267%20Dragon%20Ball%20Z%20114.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x115 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20268%20Dragon%20Ball%20Z%20115.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x116 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20269%20Dragon%20Ball%20Z%20116.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x117 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20270%20Dragon%20Ball%20Z%20117.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x118 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20271%20Dragon%20Ball%20Z%20118.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x119 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20272%20Dragon%20Ball%20Z%20119.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x120 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20273%20Dragon%20Ball%20Z%20120.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x121 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20274%20Dragon%20Ball%20Z%20121.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x122 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20275%20Dragon%20Ball%20Z%20122.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x123 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20276%20Dragon%20Ball%20Z%20123.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x124 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20277%20Dragon%20Ball%20Z%20124.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x125 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20278%20Dragon%20Ball%20Z%20125.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x126 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20279%20Dragon%20Ball%20Z%20126.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x127 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20280%20Dragon%20Ball%20Z%20127.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x128 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20281%20Dragon%20Ball%20Z%20128.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x129 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20282%20Dragon%20Ball%20Z%20129.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x130 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20283%20Dragon%20Ball%20Z%20130.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x131 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20284%20Dragon%20Ball%20Z%20131.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x132 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20285%20Dragon%20Ball%20Z%20132.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x133 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20286%20Dragon%20Ball%20Z%20133.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x134 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20287%20Dragon%20Ball%20Z%20134.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x135 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20288%20Dragon%20Ball%20Z%20135.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x136 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20289%20Dragon%20Ball%20Z%20136.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x137 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20290%20Dragon%20Ball%20Z%20137.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x138 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20291%20Dragon%20Ball%20Z%20138.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x139 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20292%20Dragon%20Ball%20Z%20139.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x140 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20293%20Dragon%20Ball%20Z%20140.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x141 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20294%20Dragon%20Ball%20Z%20141.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x142 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20295%20Dragon%20Ball%20Z%20142.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x143 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20296%20Dragon%20Ball%20Z%20143.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x144 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20297%20Dragon%20Ball%20Z%20144.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x145 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20298%20Dragon%20Ball%20Z%20145.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x146 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20299%20Dragon%20Ball%20Z%20146.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x147 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20300%20Dragon%20Ball%20Z%20147.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x148 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20301%20Dragon%20Ball%20Z%20148.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x149 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20302%20Dragon%20Ball%20Z%20149.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x150 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20303%20Dragon%20Ball%20Z%20150.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x151 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20304%20Dragon%20Ball%20Z%20151.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x152 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20305%20Dragon%20Ball%20Z%20152.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x153 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20306%20Dragon%20Ball%20Z%20153.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x154 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20307%20Dragon%20Ball%20Z%20154.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x155 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20308%20Dragon%20Ball%20Z%20155.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x156 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20309%20Dragon%20Ball%20Z%20156.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x157 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20310%20Dragon%20Ball%20Z%20157.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x158 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20311%20Dragon%20Ball%20Z%20158.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x159 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20312%20Dragon%20Ball%20Z%20159.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x160 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20313%20Dragon%20Ball%20Z%20160.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x161 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20314%20Dragon%20Ball%20Z%20161.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x162 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20315%20Dragon%20Ball%20Z%20162.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x163 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20316%20Dragon%20Ball%20Z%20163.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x164 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20317%20Dragon%20Ball%20Z%20164.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x165 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20318%20Dragon%20Ball%20Z%20165.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x166 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20319%20Dragon%20Ball%20Z%20166.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x167 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20320%20Dragon%20Ball%20Z%20167.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x168 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20321%20Dragon%20Ball%20Z%20168.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x169 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20322%20Dragon%20Ball%20Z%20169.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x170 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20323%20Dragon%20Ball%20Z%20170.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x171 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20324%20Dragon%20Ball%20Z%20171.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x172 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20325%20Dragon%20Ball%20Z%20172.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x173 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20326%20Dragon%20Ball%20Z%20173.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x174 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20327%20Dragon%20Ball%20Z%20174.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x175 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20328%20Dragon%20Ball%20Z%20175.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x176 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20329%20Dragon%20Ball%20Z%20176.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x177 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20330%20Dragon%20Ball%20Z%20177.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x178 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20331%20Dragon%20Ball%20Z%20178.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x179 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20332%20Dragon%20Ball%20Z%20179.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x180 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20333%20Dragon%20Ball%20Z%20180.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x181 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20334%20Dragon%20Ball%20Z%20181.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x182 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20335%20Dragon%20Ball%20Z%20182.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x183 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20336%20Dragon%20Ball%20Z%20183.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x184 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20337%20Dragon%20Ball%20Z%20184.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x185 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20338%20Dragon%20Ball%20Z%20185.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x186 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20339%20Dragon%20Ball%20Z%20186.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x187 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20340%20Dragon%20Ball%20Z%20187.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x188 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20341%20Dragon%20Ball%20Z%20188.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x189 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20342%20Dragon%20Ball%20Z%20189.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x190 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20343%20Dragon%20Ball%20Z%20190.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x191 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20344%20Dragon%20Ball%20Z%20191.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x192 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20345%20Dragon%20Ball%20Z%21192.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x193 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20346%20Dragon%20Ball%20Z%22193.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x194 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20347%20Dragon%20Ball%20Z%23194.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x195 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20348%20Dragon%20Ball%20Z%24195.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x196 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20349%20Dragon%20Ball%20Z%25196.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x197 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20350%20Dragon%20Ball%20Z%26197.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x198 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20351%20Dragon%20Ball%20Z%27198.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x199 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20352%20Dragon%20Ball%20Z%28199.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x200 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20353%20Dragon%20Ball%20Z%20200.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x201 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20354%20Dragon%20Ball%20Z%20201.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x202 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20355%20Dragon%20Ball%20Z%20202.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x203 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20356%20Dragon%20Ball%20Z%20203.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x204 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20357%20Dragon%20Ball%20Z%20204.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x205 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20358%20Dragon%20Ball%20Z%20205.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x206 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20359%20Dragon%20Ball%20Z%20206.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x207 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20360%20Dragon%20Ball%20Z%20207.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x208 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20361%20Dragon%20Ball%20Z%20208.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x209 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20362%20Dragon%20Ball%20Z%20209.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x210 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20363%20Dragon%20Ball%20Z%20210.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x211 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20364%20Dragon%20Ball%20Z%20211.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x212 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20365%20Dragon%20Ball%20Z%20212.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x213 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20366%20Dragon%20Ball%20Z%20213.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x214 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20367%20Dragon%20Ball%20Z%20214.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x215 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20368%20Dragon%20Ball%20Z%20215.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x216 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20369%20Dragon%20Ball%20Z%20216.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x217 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20370%20Dragon%20Ball%20Z%20217.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x218 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20371%20Dragon%20Ball%20Z%20218.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x219 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20372%20Dragon%20Ball%20Z%20219.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x220 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20373%20Dragon%20Ball%20Z%20220.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x221 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20374%20Dragon%20Ball%20Z%20221.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x222 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20375%20Dragon%20Ball%20Z%20222.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x223 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20376%20Dragon%20Ball%20Z%20223.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x224 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20377%20Dragon%20Ball%20Z%20224.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x225 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20378%20Dragon%20Ball%20Z%20225.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x226 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20379%20Dragon%20Ball%20Z%20226.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x227 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20380%20Dragon%20Ball%20Z%20227.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x228 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20381%20Dragon%20Ball%20Z%20228.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x229 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20382%20Dragon%20Ball%20Z%20229.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x230 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20383%20Dragon%20Ball%20Z%20230.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x231 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20384%20Dragon%20Ball%20Z%20231.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x232 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20385%20Dragon%20Ball%20Z%20232.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x233 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20386%20Dragon%20Ball%20Z%20233.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x234 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20387%20Dragon%20Ball%20Z%20234.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x235 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20388%20Dragon%20Ball%20Z%20235.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x236 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20389%20Dragon%20Ball%20Z%20236.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x237 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20390%20Dragon%20Ball%20Z%20237.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x238 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20391%20Dragon%20Ball%20Z%20238.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x239 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20392%20Dragon%20Ball%20Z%20239.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x240 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20393%20Dragon%20Ball%20Z%20240.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x241 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20394%20Dragon%20Ball%20Z%20241.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x242 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20395%20Dragon%20Ball%20Z%20242.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x243 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20396%20Dragon%20Ball%20Z%20243.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x244 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20397%20Dragon%20Ball%20Z%20244.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x245 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20398%20Dragon%20Ball%20Z%20245.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x246 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20399%20Dragon%20Ball%20Z%20246.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x247 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20400%20Dragon%20Ball%20Z%20247.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x248 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20401%20Dragon%20Ball%20Z%20248.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x249 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20402%20Dragon%20Ball%20Z%20249.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x250 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20403%20Dragon%20Ball%20Z%20250.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x251 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20404%20Dragon%20Ball%20Z%20251.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x252 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20405%20Dragon%20Ball%20Z%20252.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x253 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20406%20Dragon%20Ball%20Z%20253.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x254 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20407%20Dragon%20Ball%20Z%20254.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x255 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20408%20Dragon%20Ball%20Z%20255.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x256 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20409%20Dragon%20Ball%20Z%20256.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x257 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20410%20Dragon%20Ball%20Z%20257.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x258 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20411%20Dragon%20Ball%20Z%20258.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x259 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20412%20Dragon%20Ball%20Z%20259.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x260 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20413%20Dragon%20Ball%20Z%20260.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x261 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20414%20Dragon%20Ball%20Z%20261.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x262 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20415%20Dragon%20Ball%20Z%20262.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x263 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20416%20Dragon%20Ball%20Z%20263.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x264 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20417%20Dragon%20Ball%20Z%20264.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x265 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20418%20Dragon%20Ball%20Z%20265.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x266 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20419%20Dragon%20Ball%20Z%20266.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x267 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20420%20Dragon%20Ball%20Z%20267.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x268 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20421%20Dragon%20Ball%20Z%20268.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x269 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20422%20Dragon%20Ball%20Z%20269.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x270 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20423%20Dragon%20Ball%20Z%20270.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x271 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20424%20Dragon%20Ball%20Z%20271.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x272 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20425%20Dragon%20Ball%20Z%20272.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x273 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20426%20Dragon%20Ball%20Z%20273.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x274 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20427%20Dragon%20Ball%20Z%20274.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x275 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20428%20Dragon%20Ball%20Z%20275.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x276 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20429%20Dragon%20Ball%20Z%20276.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x277 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20430%20Dragon%20Ball%20Z%20277.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x278 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20431%20Dragon%20Ball%20Z%20278.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x279 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20432%20Dragon%20Ball%20Z%20279.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x280 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20433%20Dragon%20Ball%20Z%20280.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x281 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20434%20Dragon%20Ball%20Z%20281.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x282 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20435%20Dragon%20Ball%20Z%20282.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x283 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20436%20Dragon%20Ball%20Z%20283.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x284 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20437%20Dragon%20Ball%20Z%20284.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x285 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20438%20Dragon%20Ball%20Z%20285.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x286 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20439%20Dragon%20Ball%20Z%20286.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x287 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20440%20Dragon%20Ball%20Z%20287.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x288 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20441%20Dragon%20Ball%20Z%20288.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x289 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20442%20Dragon%20Ball%20Z%20289.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x290 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20443%20Dragon%20Ball%20Z%20290.mp4
+#EXTINF:-1 group-title="DRAGON BALL Z" tvg-logo="https://i.pinimg.com/564x/a3/91/89/a39189c26cc8912b99ea1712a969f5fd.jpg",01x291 DRAGON BALL Z
+https://archive.org/download/dragon-ball-000/Dragon%20Ball%20444%20Dragon%20Ball%20Z%20291.mp4
 #EXTINF: -1 tvg-chno="67" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x01 Dragon Ball GT
 https://archive.org/download/phantom-t-01-xe-16/DBGT.01-.mkv
 #EXTINF: -1 tvg-chno="68" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png" group-title="Dragon Ball", 01x02 Dragon Ball GT
