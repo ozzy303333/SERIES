@@ -4,21 +4,21 @@ https://archive.org/download/rick-01x-10_202309/Rick%2001x01.mkv
 #EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1524/1_m3.jpg" group-title="Rick y Morty", 01x02 Rick and Morty
 https://archive.org/download/rick-01x-10_202309/RIck%2001x02.mkv
 #EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1524/1_m3.jpg" group-title="Rick y Morty", 01x03 Rick and Morty
-https://archive.org/download/rick-01x-10_202309/RIck%2001x03.mkv
+https://archive.org/download/rick-01x-10_202309/Rick%2001x03.mkv
 #EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1524/1_m3.jpg" group-title="Rick y Morty", 01x04 Rick and Morty
-https://archive.org/download/rick-01x-10_202309/RIck%2001x04.mkv
+https://archive.org/download/rick-01x-10_202309/Rick%2001x04.mkv
 #EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1524/1_m3.jpg" group-title="Rick y Morty", 01x05 Rick and Morty
-https://archive.org/download/rick-01x-10_202309/RIck%2001x05.mkv
+https://archive.org/download/rick-01x-10_202309/Rick%2001x05.mkv
 #EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1524/1_m3.jpg" group-title="Rick y Morty", 01x06 Rick and Morty
-https://archive.org/download/rick-01x-10_202309/RIck%2001x06.mkv
+https://archive.org/download/rick-01x-10_202309/Rick%2001x06.mkv
 #EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1524/1_m3.jpg" group-title="Rick y Morty", 01x07 Rick and Morty
-https://archive.org/download/rick-01x-10_202309/RIck%2001x07.mkv
+https://archive.org/download/rick-01x-10_202309/Rick%2001x07.mkv
 #EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1524/1_m3.jpg" group-title="Rick y Morty", 01x08 Rick and Morty
-https://archive.org/download/rick-01x-10_202309/RIck%2001x08.mkv
+https://archive.org/download/rick-01x-10_202309/Rick%2001x08.mkv
 #EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1524/1_m3.jpg" group-title="Rick y Morty", 01x09 Rick and Morty
-https://archive.org/download/rick-01x-10_202309/RIck%2001x09.mkv
+https://archive.org/download/rick-01x-10_202309/Rick%2001x09.mkv
 #EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1524/1_m3.jpg" group-title="Rick y Morty", 01x10 Rick and Morty
-https://archive.org/download/rick-01x-10_202309/RIck%2001x10.mkv
+https://archive.org/download/rick-01x-10_202309/Rick%2001x10.mkv
 #EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1524/1_m3.jpg" group-title="Rick y Morty", 01x11 Rick and Morty
 https://archive.org/download/rick-01x-10_202309/Rick01x11.mkv
 #EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/194367025/s718/temporada-2.jpg" group-title="Rick y Morty", 02x01 Rick and Morty
@@ -37,8 +37,6 @@ https://archive.org/download/rick-01x-10_202309/Rick%2002x06.mkv
 https://archive.org/download/rick-01x-10_202309/Rick%2002x07.mkv
 #EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/194367025/s718/temporada-2.jpg" group-title="Rick y Morty", 02x08 Rick and Morty
 https://archive.org/download/rick-01x-10_202309/Rick%2002x08.mkv
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/194367025/s718/temporada-2.jpg" group-title="Rick y Morty", 02x09 Rick and Morty
-https://archive.org/download/rick-01x-10_202309/Rick%2002x09.mkv
 #EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/194367025/s718/temporada-2.jpg" group-title="Rick y Morty", 02x09 Rick and Morty
 https://archive.org/download/rick-01x-10_202309/Rick%2002x09.mkv
 #EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/194367025/s718/temporada-2.jpg" group-title="Rick y Morty", 02x10 Rick and Morty
@@ -90,9 +88,9 @@ https://archive.org/download/rick-01x-10_202309/Ricky%2005x03.mkv
 #EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/247615255/s592/temporada-5" group-title="Rick y Morty", 05x4 Rick and Morty
 https://archive.org/download/rick-01x-10_202309/Ricky%2005x04.mkv
 #EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/247615255/s592/temporada-5" group-title="Rick y Morty", 05x5 Rick and Morty
-https://archive.org/download/rick-01x-10_202309/Ricky%2005x05.mkv
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/247615255/s592/temporada-5" group-title="Rick y Morty", 05x6 Rick and Morty
 https://archive.org/download/rick-01x-10_202309/Ricky%2005x06.mkv
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/247615255/s592/temporada-5" group-title="Rick y Morty", 05x6 Rick and Morty
+https://archive.org/download/rick-01x-10_202309/Ricky%2005x06.mp4
 #EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/247615255/s592/temporada-5" group-title="Rick y Morty", 05x7 Rick and Morty
 https://archive.org/download/rick-01x-10_202309/Ricky%2005x07.mkv
 #EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/247615255/s592/temporada-5" group-title="Rick y Morty", 05x8 Rick and Morty
