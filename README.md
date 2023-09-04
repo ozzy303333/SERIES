@@ -1,4 +1,50 @@
 #EXTM3U 
+#EXTINF: -1 tvg-logo="https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/SUEGTRTR2FJX3ODZ3XPXHYIFEM.jpg" group-title="El Show de Cuphead", 01x02 El Show de Cuphead
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/01x02.ia.mp4
+#EXTINF: -1 tvg-logo="https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/SUEGTRTR2FJX3ODZ3XPXHYIFEM.jpg" group-title="El Show de Cuphead", 01x03 El Show de Cuphead
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/01x03.ia.mp4
+#EXTINF: -1 tvg-logo="https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/SUEGTRTR2FJX3ODZ3XPXHYIFEM.jpg" group-title="El Show de Cuphead", 01x04 El Show de Cuphead
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/01x04.ia.mp4
+#EXTINF: -1 tvg-logo="https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/SUEGTRTR2FJX3ODZ3XPXHYIFEM.jpg" group-title="El Show de Cuphead", 01x06 El Show de Cuphead
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/01x06.ia.mp4
+#EXTINF: -1 tvg-logo="https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/SUEGTRTR2FJX3ODZ3XPXHYIFEM.jpg" group-title="El Show de Cuphead", 01x07 El Show de Cuphead
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/01x07.ia.mp4
+#EXTINF: -1 tvg-logo="https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/SUEGTRTR2FJX3ODZ3XPXHYIFEM.jpg" group-title="El Show de Cuphead", 01x08 El Show de Cuphead
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/01x08.ia.mp4
+#EXTINF: -1 tvg-logo="https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/SUEGTRTR2FJX3ODZ3XPXHYIFEM.jpg" group-title="El Show de Cuphead", 01x09 El Show de Cuphead
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/01x09.ia.mp4
+#EXTINF: -1 tvg-logo="https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/SUEGTRTR2FJX3ODZ3XPXHYIFEM.jpg" group-title="El Show de Cuphead", 01x10 El Show de Cuphead
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/01x10.ia.mp4
+#EXTINF: -1 tvg-logo="https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/SUEGTRTR2FJX3ODZ3XPXHYIFEM.jpg" group-title="El Show de Cuphead", 01x11 El Show de Cuphead
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/01x11.ia.mp4
+#EXTINF: -1 tvg-logo="https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/SUEGTRTR2FJX3ODZ3XPXHYIFEM.jpg" group-title="El Show de Cuphead", 01x12 El Show de Cuphead
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/01x12.ia.mp4
+#EXTINF: -1 tvg-logo="https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/SUEGTRTR2FJX3ODZ3XPXHYIFEM.jpg" group-title="El Show de Cuphead", 01x13 El Show de Cuphead
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/01X13%20El%20Show%20de%20Cuphead%20Carn-Evil.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/300511842/s718/temporada-2.jpg" group-title="El Show de Cuphead", 02x02 Peligrosamente encantados
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/02x02%20Peligrosamente%20encantados.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/300511842/s718/temporada-2.jpg" group-title="El Show de Cuphead", 02x03 Aventura en altamar
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/02x03%20Aventura%20en%20altamar.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/300511842/s718/temporada-2.jpg" group-title="El Show de Cuphead", 02x04 Otro hermano
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/02x04%20Otro%20hermano.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/300511842/s718/temporada-2.jpg" group-title="El Show de Cuphead", 02x05 Dulce tentacion
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/02x05%20Dulce%20tentacion.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/300511842/s718/temporada-2.jpg" group-title="El Show de Cuphead", 02x06 El hombre de los hela-gritos
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/02x06%20El%20hombre%20de%20los%20hela-gritos.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/300511842/s718/temporada-2.jpg" group-title="El Show de Cuphead", 02x07 La clase de piano
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/02x07%20La%20clase%20de%20piano.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/300511842/s718/temporada-2.jpg" group-title="El Show de Cuphead", 02x08 ¡Liberen a los demonios!
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/02x08%20%C2%A1Liberen%20a%20los%20demonios%21.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/300511842/s718/temporada-2.jpg" group-title="El Show de Cuphead", 02x09 En bancarrota
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/02x09%20En%20bancarrota.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/300511842/s718/temporada-2.jpg" group-title="El Show de Cuphead", 02x10 ¡Eso es todo, ratas!
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/02x10%20%C2%A1Eso%20es%20todo%2C%20ratas%21.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/300511842/s718/temporada-2.jpg" group-title="El Show de Cuphead", 02x11 ¡Sonrian!
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/02x11%20%C2%A1Sonrian%21.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/300511842/s718/temporada-2.jpg" group-title="El Show de Cuphead", 02x12 Perdidos en el bosque
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/02x12%20Perdidos%20en%20el%20bosque.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/300511842/s718/temporada-2.jpg" group-title="El Show de Cuphead", 02x13 El Tridente del diablo
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/02x13%20El%20Tridente%20del%20diablo.ia.mp4
 #EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1524/1_m3.jpg" group-title="Rick y Morty", 01x01 Rick and Morty
 https://archive.org/download/rick-01x-10_202309/Rick%2001x01.mkv
 #EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1524/1_m3.jpg" group-title="Rick y Morty", 01x02 Rick and Morty
@@ -2033,6 +2079,104 @@ https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%2011.1.mkv
 https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%2011.2.mkv
 #EXTINF: -1 tvg-logo="https://elcomercio.pe/resizer/8ukAotFOOKIMHxG1UU_oxMeRzqk=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/BN3LOSMCHZAHDGRYAUZLFHV6VI.jpg" group-title="FUTURAMA", 11x3 FUTURAMA
 https://archive.org/download/g-4-t-0-nh-0-u-53-1.9-1_202308/G4T0NFU%2011.3.mkv
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/301683228/s718/temporada-1.%7Bformat%7D" group-title="DANNY PHANTOM", 01x01 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%20-%20T01XE01.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/301683228/s718/temporada-1.%7Bformat%7D" group-title="DANNY PHANTOM", 01x02 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%20-%20T01XE02.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/301683228/s718/temporada-1.%7Bformat%7D" group-title="DANNY PHANTOM", 01x03 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%20-%20T01XE03.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/301683228/s718/temporada-1.%7Bformat%7D" group-title="DANNY PHANTOM", 01x04 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%20-%20T01XE04.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/301683228/s718/temporada-1.%7Bformat%7D" group-title="DANNY PHANTOM", 01x05 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%20-%20T01XE05.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/301683228/s718/temporada-1.%7Bformat%7D" group-title="DANNY PHANTOM", 01x06 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%20-%20T01XE06.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/301683228/s718/temporada-1.%7Bformat%7D" group-title="DANNY PHANTOM", 01x07 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%20-%20T01XE07.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/301683228/s718/temporada-1.%7Bformat%7D" group-title="DANNY PHANTOM", 01x08 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%20-%20T01XE08.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/301683228/s718/temporada-1.%7Bformat%7D" group-title="DANNY PHANTOM", 01x010 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%20-%20T01XE010.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/301683228/s718/temporada-1.%7Bformat%7D" group-title="DANNY PHANTOM", 01x011 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%20-%20T01XE011.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/301683228/s718/temporada-1.%7Bformat%7D" group-title="DANNY PHANTOM", 01x012 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%20-%20T01XE012.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/301683228/s718/temporada-1.%7Bformat%7D" group-title="DANNY PHANTOM", 01x013 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%20-%20T01XE013.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/301683228/s718/temporada-1.%7Bformat%7D" group-title="DANNY PHANTOM", 01x014 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%20-%20T01XE014.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/301683228/s718/temporada-1.%7Bformat%7D" group-title="DANNY PHANTOM", 01x015 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%20-%20T01XE015.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/301683228/s718/temporada-1.%7Bformat%7D" group-title="DANNY PHANTOM", 01x016 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%20-%20T01XE016.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/301683228/s718/temporada-1.%7Bformat%7D" group-title="DANNY PHANTOM", 01x017 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%20-%20T01XE017.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/301683228/s718/temporada-1.%7Bformat%7D" group-title="DANNY PHANTOM", 01x018 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%20-%20T01XE018.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/301683228/s718/temporada-1.%7Bformat%7D" group-title="DANNY PHANTOM", 01x019 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%20-%20T01XE019.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/301683228/s718/temporada-1.%7Bformat%7D" group-title="DANNY PHANTOM", 01x020 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%20-%20T01XE020.mp4
+#EXTINF: -1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5cfc53a57cb9c.jpg" group-title="DANNY PHANTOM", 02x01 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%20T02XE01.mp4
+#EXTINF: -1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5cfc53a57cb9c.jpg" group-title="DANNY PHANTOM", 02x02 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%20T02XE02.mp4
+#EXTINF: -1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5cfc53a57cb9c.jpg" group-title="DANNY PHANTOM", 02x03 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%20T02XE03.mp4
+#EXTINF: -1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5cfc53a57cb9c.jpg" group-title="DANNY PHANTOM", 02x04 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%20T02XE04.mp4
+#EXTINF: -1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5cfc53a57cb9c.jpg" group-title="DANNY PHANTOM", 02x05 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%20T02XE05.mp4
+#EXTINF: -1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5cfc53a57cb9c.jpg" group-title="DANNY PHANTOM", 02x06 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%20T02XE06.mp4
+#EXTINF: -1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5cfc53a57cb9c.jpg" group-title="DANNY PHANTOM", 02x07 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%20T02XE07.mp4
+#EXTINF: -1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5cfc53a57cb9c.jpg" group-title="DANNY PHANTOM", 02x08 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%20T02XE08.mp4
+#EXTINF: -1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5cfc53a57cb9c.jpg" group-title="DANNY PHANTOM", 02x09 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%20T02XE09.mp4
+#EXTINF: -1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5cfc53a57cb9c.jpg" group-title="DANNY PHANTOM", 02x10 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%20T02XE010.mp4
+#EXTINF: -1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5cfc53a57cb9c.jpg" group-title="DANNY PHANTOM", 02x11DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%20T02XE011.mp4
+#EXTINF: -1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5cfc53a57cb9c.jpg" group-title="DANNY PHANTOM", 02x12DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%20T02XE012.mp4
+#EXTINF: -1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5cfc53a57cb9c.jpg" group-title="DANNY PHANTOM", 02x13 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%20T02XE013.mp4
+#EXTINF: -1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5cfc53a57cb9c.jpg" group-title="DANNY PHANTOM", 02x14 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%20T02XE014.mp4
+#EXTINF: -1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5cfc53a57cb9c.jpg" group-title="DANNY PHANTOM", 02x15 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%20T02XE015.mp4
+#EXTINF: -1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5cfc53a57cb9c.jpg" group-title="DANNY PHANTOM", 02x16 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%20T02XE016.mp4
+#EXTINF: -1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5cfc53a57cb9c.jpg" group-title="DANNY PHANTOM", 02x17 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%20T02XE017.mp4
+#EXTINF: -1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5cfc53a57cb9c.jpg" group-title="DANNY PHANTOM", 02x18 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%20T02XE018.mp4
+#EXTINF: -1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5cfc53a57cb9c.jpg" group-title="DANNY PHANTOM", 02x19 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%20T02XE019.mp4
+#EXTINF: -1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5cfc53a57cb9c.jpg" group-title="DANNY PHANTOM", 02x20 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%20T02XE020.mp4
+#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/danny_phantom_tv_series-117653530-mmed.jpg" group-title="DANNY PHANTOM", 03x01 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%203X01.mp4
+#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/danny_phantom_tv_series-117653530-mmed.jpg" group-title="DANNY PHANTOM", 03x02 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%203X02.mp4
+#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/danny_phantom_tv_series-117653530-mmed.jpg" group-title="DANNY PHANTOM", 03x03 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%203X03.mp4
+#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/danny_phantom_tv_series-117653530-mmed.jpg" group-title="DANNY PHANTOM", 03x04 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%203X04.mp4
+#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/danny_phantom_tv_series-117653530-mmed.jpg" group-title="DANNY PHANTOM", 03x05 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%203X05.mp4
+#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/danny_phantom_tv_series-117653530-mmed.jpg" group-title="DANNY PHANTOM", 03x06 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%203X06.mp4
+#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/danny_phantom_tv_series-117653530-mmed.jpg" group-title="DANNY PHANTOM", 03x08 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%203X08.mp4
+#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/danny_phantom_tv_series-117653530-mmed.jpg" group-title="DANNY PHANTOM", 03x09 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%203X09.mp4
+#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/danny_phantom_tv_series-117653530-mmed.jpg" group-title="DANNY PHANTOM", 03x10 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%203X10.mp4
+#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/danny_phantom_tv_series-117653530-mmed.jpg" group-title="DANNY PHANTOM", 03x11 DANNY PHANTOM
+https://archive.org/download/phantom-t-01-xe-16/Phantom%203X11.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Monstruos%20a%20la%20obra.jpg" group-title="ANIMACION Monsters at Work", Monsters at Work 1x3
 https://archive.org/download/sr-y-sra-smith/Monsters.at.Work%201x3.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Monstruos%20a%20la%20obra.jpg" group-title="ANIMACION Monsters at Work", Monsters at Work 1x4
@@ -2043,30 +2187,6 @@ https://archive.org/download/sr-y-sra-smith/Monsters.at.Work%201x5.m4v
 https://archive.org/download/sr-y-sra-smith/Monsters.at.Work%201x6.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Monstruos%20a%20la%20obra.jpg" group-title="ANIMACION Monsters at Work", Monsters at Work 1X9
 https://archive.org/download/por-encima-de-la-ley-1/1x9%20monster%20a%20%20work.mp4
-#EXTINF: -1 tvg-logo="https://ia601404.us.archive.org/19/items/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%20%28Serie%20de%20TV%29%20%282021%29.jpg" group-title="Star Wars The Bad Batch", Star Wars The Bad Batch 1x10
-https://archive.org/download/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%201x10.mp4
-#EXTINF: -1 tvg-logo="https://ia601404.us.archive.org/19/items/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%20%28Serie%20de%20TV%29%20%282021%29.jpg" group-title="Star Wars The Bad Batch", Star Wars The Bad Batch 1x11
-https://archive.org/download/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%201x11.mp4
-#EXTINF: -1 tvg-logo="https://ia601404.us.archive.org/19/items/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%20%28Serie%20de%20TV%29%20%282021%29.jpg" group-title="Star Wars The Bad Batch", Star Wars The Bad Batch 1x12
-https://archive.org/download/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%201x12.mp4
-#EXTINF: -1 tvg-logo="https://ia601404.us.archive.org/19/items/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%20%28Serie%20de%20TV%29%20%282021%29.jpg" group-title="Star Wars The Bad Batch", Star Wars The Bad Batch 1x13
-https://archive.org/download/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%201x13.mp4
-#EXTINF: -1 tvg-logo="https://ia601404.us.archive.org/19/items/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%20%28Serie%20de%20TV%29%20%282021%29.jpg" group-title="Star Wars The Bad Batch", Star Wars The Bad Batch 1x2
-https://archive.org/download/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%201x2.mp4
-#EXTINF: -1 tvg-logo="https://ia601404.us.archive.org/19/items/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%20%28Serie%20de%20TV%29%20%282021%29.jpg" group-title="Star Wars The Bad Batch", Star Wars The Bad Batch 1x3
-https://archive.org/download/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%201x3.mp4
-#EXTINF: -1 tvg-logo="https://ia601404.us.archive.org/19/items/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%20%28Serie%20de%20TV%29%20%282021%29.jpg" group-title="Star Wars The Bad Batch", Star Wars The Bad Batch 1x4
-https://archive.org/download/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%201x4.mp4
-#EXTINF: -1 tvg-logo="https://ia601404.us.archive.org/19/items/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%20%28Serie%20de%20TV%29%20%282021%29.jpg" group-title="Star Wars The Bad Batch", Star Wars The Bad Batch 1x5
-https://archive.org/download/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%201x5.mp4
-#EXTINF: -1 tvg-logo="https://ia601404.us.archive.org/19/items/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%20%28Serie%20de%20TV%29%20%282021%29.jpg" group-title="Star Wars The Bad Batch", Star Wars The Bad Batch 1x6
-https://archive.org/download/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%201x6.mp4
-#EXTINF: -1 tvg-logo="https://ia601404.us.archive.org/19/items/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%20%28Serie%20de%20TV%29%20%282021%29.jpg" group-title="Star Wars The Bad Batch", Star Wars The Bad Batch 1x7
-https://archive.org/download/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%201x7.mp4
-#EXTINF: -1 tvg-logo="https://ia601404.us.archive.org/19/items/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%20%28Serie%20de%20TV%29%20%282021%29.jpg" group-title="Star Wars The Bad Batch", Star Wars The Bad Batch 1x8
-https://archive.org/download/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%201x8.mp4
-#EXTINF: -1 tvg-logo="https://ia601404.us.archive.org/19/items/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%20%28Serie%20de%20TV%29%20%282021%29.jpg" group-title="Star Wars The Bad Batch", Star Wars The Bad Batch 1x9
-https://archive.org/download/sr-y-sra-smith/Star%20Wars%20The%20Bad%20Batch%201x9.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/Gossip%20girl.jpg" group-title="Gossip girl", Gossip girl 1X1
 https://archive.org/download/como-me-converti-en-superheroe/Gossip%20girl.mp4
 #EXTINF: -1 tvg-logo="https://archive.org/download/como-me-converti-en-superheroe/El%20candidato%201.jpg" group-title="EL CANDIDATO", 1x01 el candidato  - Piloto
@@ -2651,101 +2771,3 @@ https://archive.org/download/1_20211103/28-1%20%2822%29.mp4
 https://archive.org/download/1_20211103/28-1%20%2823%29.mp4
 #EXTINF: -1 tvg-logo="https://http2.mlstatic.com/D_NQ_NP_999515-MLM25263693846_012017-O.jpg" group-title="The Big Bang Theory", 4X24 The Big Bang Theory
 https://archive.org/download/1_20211103/28-1%20%2824%29.mp4
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/301683228/s718/temporada-1.%7Bformat%7D" group-title="DANNY PHANTOM", 01x01 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%20-%20T01XE01.mp4
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/301683228/s718/temporada-1.%7Bformat%7D" group-title="DANNY PHANTOM", 01x02 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%20-%20T01XE02.mp4
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/301683228/s718/temporada-1.%7Bformat%7D" group-title="DANNY PHANTOM", 01x03 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%20-%20T01XE03.mp4
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/301683228/s718/temporada-1.%7Bformat%7D" group-title="DANNY PHANTOM", 01x04 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%20-%20T01XE04.mp4
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/301683228/s718/temporada-1.%7Bformat%7D" group-title="DANNY PHANTOM", 01x05 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%20-%20T01XE05.mp4
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/301683228/s718/temporada-1.%7Bformat%7D" group-title="DANNY PHANTOM", 01x06 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%20-%20T01XE06.mp4
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/301683228/s718/temporada-1.%7Bformat%7D" group-title="DANNY PHANTOM", 01x07 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%20-%20T01XE07.mp4
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/301683228/s718/temporada-1.%7Bformat%7D" group-title="DANNY PHANTOM", 01x08 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%20-%20T01XE08.mp4
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/301683228/s718/temporada-1.%7Bformat%7D" group-title="DANNY PHANTOM", 01x010 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%20-%20T01XE010.mp4
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/301683228/s718/temporada-1.%7Bformat%7D" group-title="DANNY PHANTOM", 01x011 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%20-%20T01XE011.mp4
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/301683228/s718/temporada-1.%7Bformat%7D" group-title="DANNY PHANTOM", 01x012 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%20-%20T01XE012.mp4
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/301683228/s718/temporada-1.%7Bformat%7D" group-title="DANNY PHANTOM", 01x013 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%20-%20T01XE013.mp4
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/301683228/s718/temporada-1.%7Bformat%7D" group-title="DANNY PHANTOM", 01x014 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%20-%20T01XE014.mp4
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/301683228/s718/temporada-1.%7Bformat%7D" group-title="DANNY PHANTOM", 01x015 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%20-%20T01XE015.mp4
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/301683228/s718/temporada-1.%7Bformat%7D" group-title="DANNY PHANTOM", 01x016 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%20-%20T01XE016.mp4
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/301683228/s718/temporada-1.%7Bformat%7D" group-title="DANNY PHANTOM", 01x017 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%20-%20T01XE017.mp4
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/301683228/s718/temporada-1.%7Bformat%7D" group-title="DANNY PHANTOM", 01x018 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%20-%20T01XE018.mp4
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/301683228/s718/temporada-1.%7Bformat%7D" group-title="DANNY PHANTOM", 01x019 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%20-%20T01XE019.mp4
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/301683228/s718/temporada-1.%7Bformat%7D" group-title="DANNY PHANTOM", 01x020 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%20-%20T01XE020.mp4
-#EXTINF: -1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5cfc53a57cb9c.jpg" group-title="DANNY PHANTOM", 02x01 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%20T02XE01.mp4
-#EXTINF: -1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5cfc53a57cb9c.jpg" group-title="DANNY PHANTOM", 02x02 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%20T02XE02.mp4
-#EXTINF: -1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5cfc53a57cb9c.jpg" group-title="DANNY PHANTOM", 02x03 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%20T02XE03.mp4
-#EXTINF: -1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5cfc53a57cb9c.jpg" group-title="DANNY PHANTOM", 02x04 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%20T02XE04.mp4
-#EXTINF: -1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5cfc53a57cb9c.jpg" group-title="DANNY PHANTOM", 02x05 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%20T02XE05.mp4
-#EXTINF: -1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5cfc53a57cb9c.jpg" group-title="DANNY PHANTOM", 02x06 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%20T02XE06.mp4
-#EXTINF: -1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5cfc53a57cb9c.jpg" group-title="DANNY PHANTOM", 02x07 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%20T02XE07.mp4
-#EXTINF: -1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5cfc53a57cb9c.jpg" group-title="DANNY PHANTOM", 02x08 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%20T02XE08.mp4
-#EXTINF: -1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5cfc53a57cb9c.jpg" group-title="DANNY PHANTOM", 02x09 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%20T02XE09.mp4
-#EXTINF: -1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5cfc53a57cb9c.jpg" group-title="DANNY PHANTOM", 02x10 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%20T02XE010.mp4
-#EXTINF: -1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5cfc53a57cb9c.jpg" group-title="DANNY PHANTOM", 02x11DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%20T02XE011.mp4
-#EXTINF: -1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5cfc53a57cb9c.jpg" group-title="DANNY PHANTOM", 02x12DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%20T02XE012.mp4
-#EXTINF: -1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5cfc53a57cb9c.jpg" group-title="DANNY PHANTOM", 02x13 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%20T02XE013.mp4
-#EXTINF: -1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5cfc53a57cb9c.jpg" group-title="DANNY PHANTOM", 02x14 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%20T02XE014.mp4
-#EXTINF: -1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5cfc53a57cb9c.jpg" group-title="DANNY PHANTOM", 02x15 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%20T02XE015.mp4
-#EXTINF: -1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5cfc53a57cb9c.jpg" group-title="DANNY PHANTOM", 02x16 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%20T02XE016.mp4
-#EXTINF: -1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5cfc53a57cb9c.jpg" group-title="DANNY PHANTOM", 02x17 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%20T02XE017.mp4
-#EXTINF: -1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5cfc53a57cb9c.jpg" group-title="DANNY PHANTOM", 02x18 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%20T02XE018.mp4
-#EXTINF: -1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5cfc53a57cb9c.jpg" group-title="DANNY PHANTOM", 02x19 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%20T02XE019.mp4
-#EXTINF: -1 tvg-logo="https://artworks.thetvdb.com/banners/posters/5cfc53a57cb9c.jpg" group-title="DANNY PHANTOM", 02x20 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%20T02XE020.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/danny_phantom_tv_series-117653530-mmed.jpg" group-title="DANNY PHANTOM", 03x01 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%203X01.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/danny_phantom_tv_series-117653530-mmed.jpg" group-title="DANNY PHANTOM", 03x02 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%203X02.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/danny_phantom_tv_series-117653530-mmed.jpg" group-title="DANNY PHANTOM", 03x03 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%203X03.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/danny_phantom_tv_series-117653530-mmed.jpg" group-title="DANNY PHANTOM", 03x04 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%203X04.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/danny_phantom_tv_series-117653530-mmed.jpg" group-title="DANNY PHANTOM", 03x05 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%203X05.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/danny_phantom_tv_series-117653530-mmed.jpg" group-title="DANNY PHANTOM", 03x06 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%203X06.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/danny_phantom_tv_series-117653530-mmed.jpg" group-title="DANNY PHANTOM", 03x08 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%203X08.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/danny_phantom_tv_series-117653530-mmed.jpg" group-title="DANNY PHANTOM", 03x09 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%203X09.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/danny_phantom_tv_series-117653530-mmed.jpg" group-title="DANNY PHANTOM", 03x10 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%203X10.mp4
-#EXTINF: -1 tvg-logo="https://pics.filmaffinity.com/danny_phantom_tv_series-117653530-mmed.jpg" group-title="DANNY PHANTOM", 03x11 DANNY PHANTOM
-https://archive.org/download/phantom-t-01-xe-16/Phantom%203X11.mp4
