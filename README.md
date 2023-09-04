@@ -46,7 +46,7 @@ https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720
 #EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/300511842/s718/temporada-2.jpg" group-title="El Show de Cuphead", 02x13 El Tridente del diablo
 https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/02x13%20El%20Tridente%20del%20diablo.ia.mp4
 #EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1524/1_m3.jpg" group-title="Rick y Morty", 01x01 Rick and Morty
-https://archive.org/download/rick-01x-10_202309/Rick%2001x01.mkv
+https://archive.org/download/rick-01x-01/Rick%2001x01.mp4
 #EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1524/1_m3.jpg" group-title="Rick y Morty", 01x02 Rick and Morty
 https://archive.org/download/rick-01x-10_202309/RIck%2001x02.mkv
 #EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1524/1_m3.jpg" group-title="Rick y Morty", 01x03 Rick and Morty
