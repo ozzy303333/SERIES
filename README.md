@@ -1,43 +1,43 @@
 #EXTM3U 
 #EXTINF: -1 tvg-logo="https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/SUEGTRTR2FJX3ODZ3XPXHYIFEM.jpg" group-title="El Show de Cuphead", 01x02 El Show de Cuphead
-https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/01x02.ia.mp4
+https://archive.org/download/01x-08_202309/01x02.mp4
 #EXTINF: -1 tvg-logo="https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/SUEGTRTR2FJX3ODZ3XPXHYIFEM.jpg" group-title="El Show de Cuphead", 01x03 El Show de Cuphead
-https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/01x03.ia.mp4
+https://archive.org/download/01x-08_202309/01x03.mp4
 #EXTINF: -1 tvg-logo="https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/SUEGTRTR2FJX3ODZ3XPXHYIFEM.jpg" group-title="El Show de Cuphead", 01x04 El Show de Cuphead
-https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/01x04.ia.mp4
+https://archive.org/download/01x-08_202309/01x03.mp4
 #EXTINF: -1 tvg-logo="https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/SUEGTRTR2FJX3ODZ3XPXHYIFEM.jpg" group-title="El Show de Cuphead", 01x06 El Show de Cuphead
-https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/01x06.ia.mp4
+https://archive.org/download/01x-08_202309/01x06%20.mp4
 #EXTINF: -1 tvg-logo="https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/SUEGTRTR2FJX3ODZ3XPXHYIFEM.jpg" group-title="El Show de Cuphead", 01x07 El Show de Cuphead
-https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/01x07.ia.mp4
+https://archive.org/download/01x-08_202309/02x07%20La%20clase%20de%20piano.mp4
 #EXTINF: -1 tvg-logo="https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/SUEGTRTR2FJX3ODZ3XPXHYIFEM.jpg" group-title="El Show de Cuphead", 01x08 El Show de Cuphead
-https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/01x08.ia.mp4
+https://archive.org/download/01x-08_202309/02x08%20%C2%A1Liberen%20a%20los%20demonios%21.mp4
 #EXTINF: -1 tvg-logo="https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/SUEGTRTR2FJX3ODZ3XPXHYIFEM.jpg" group-title="El Show de Cuphead", 01x09 El Show de Cuphead
-https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/01x09.ia.mp4
+https://archive.org/download/01x-08_202309/02x09%20En%20bancarrota.mp4
 #EXTINF: -1 tvg-logo="https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/SUEGTRTR2FJX3ODZ3XPXHYIFEM.jpg" group-title="El Show de Cuphead", 01x10 El Show de Cuphead
-https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/01x10.ia.mp4
+https://archive.org/download/01x-08_202309/02x10%20%C2%A1Eso%20es%20todo%2C%20ratas%21.mp4
 #EXTINF: -1 tvg-logo="https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/SUEGTRTR2FJX3ODZ3XPXHYIFEM.jpg" group-title="El Show de Cuphead", 01x11 El Show de Cuphead
-https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/01x11.ia.mp4
+https://archive.org/download/01x-08_202309/02x11%20%C2%A1Sonrian%21.mp4
 #EXTINF: -1 tvg-logo="https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/SUEGTRTR2FJX3ODZ3XPXHYIFEM.jpg" group-title="El Show de Cuphead", 01x12 El Show de Cuphead
-https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/01x12.ia.mp4
+https://archive.org/download/01x-08_202309/02x12%20Perdidos%20en%20el%20bosque.mp4
 #EXTINF: -1 tvg-logo="https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/SUEGTRTR2FJX3ODZ3XPXHYIFEM.jpg" group-title="El Show de Cuphead", 01x13 El Show de Cuphead
-https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/01X13%20El%20Show%20de%20Cuphead%20Carn-Evil.ia.mp4
+https://archive.org/download/01x-08_202309/02x13%20El%20Tridente%20del%20diablo.mp4
 #EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/300511842/s718/temporada-2.jpg" group-title="El Show de Cuphead", 02x02 Peligrosamente encantados
-https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/02x02%20Peligrosamente%20encantados.ia.mp4
+https://archive.org/download/01x-08_202309/01x11.mp4
 #EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/300511842/s718/temporada-2.jpg" group-title="El Show de Cuphead", 02x03 Aventura en altamar
-https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/02x03%20Aventura%20en%20altamar.ia.mp4
+https://archive.org/download/01x-08_202309/02x03%20Aventura%20en%20altamar.mp4
 #EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/300511842/s718/temporada-2.jpg" group-title="El Show de Cuphead", 02x04 Otro hermano
-https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/02x04%20Otro%20hermano.ia.mp4
+https://archive.org/download/01x-08_202309/02x04%20Otro%20hermano.mp4
 #EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/300511842/s718/temporada-2.jpg" group-title="El Show de Cuphead", 02x05 Dulce tentacion
-https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/02x05%20Dulce%20tentacion.ia.mp4
+https://archive.org/download/01x-08_202309/02x05%20Dulce%20tentacion.mp4
 #EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/300511842/s718/temporada-2.jpg" group-title="El Show de Cuphead", 02x06 El hombre de los hela-gritos
-https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/02x06%20El%20hombre%20de%20los%20hela-gritos.ia.mp4
+https://archive.org/download/01x-08_202309/02x06%20El%20hombre%20de%20los%20hela-gritos.mp4
 #EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/300511842/s718/temporada-2.jpg" group-title="El Show de Cuphead", 02x07 La clase de piano
 https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/02x07%20La%20clase%20de%20piano.ia.mp4
 #EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/300511842/s718/temporada-2.jpg" group-title="El Show de Cuphead", 02x08 ¡Liberen a los demonios!
 https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/02x08%20%C2%A1Liberen%20a%20los%20demonios%21.ia.mp4
 #EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/300511842/s718/temporada-2.jpg" group-title="El Show de Cuphead", 02x09 En bancarrota
 https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/02x09%20En%20bancarrota.ia.mp4
-#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/300511842/s718/temporada-2.jpg" group-title="El Show de Cuphead", 02x10 ¡Eso es todo, ratas!
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/300511842/s718/temporada-2.jpg" group-title="El Show de Cuphead", ratas!
 https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/02x10%20%C2%A1Eso%20es%20todo%2C%20ratas%21.ia.mp4
 #EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/300511842/s718/temporada-2.jpg" group-title="El Show de Cuphead", 02x11 ¡Sonrian!
 https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/02x11%20%C2%A1Sonrian%21.ia.mp4
