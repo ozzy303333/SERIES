@@ -1,4 +1,56 @@
 #EXTM3U 
+#EXTINF: -1 tvg-logo="https://r4.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fs1.abcstatics.com%2Fmedia%2Fcapitulos%2F000%2F001%2F304%2Fsin-blanca-navidad-1.jpg&nuevoancho=690&medio=abc" group-title="Los Simpson", 01x01 Especial de Navidad
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS%201/L%20S%201-1%20Especial%20de%20Navidad.mp4
+#EXTINF: -1 tvg-logo="https://r4.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fs1.abcstatics.com%2Fmedia%2Fcapitulos%2F000%2F001%2F304%2Fsin-blanca-navidad-1.jpg&nuevoancho=690&medio=abc" group-title="Los Simpson", 1x02 bart es un genio
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS%201/L%20S1-2%20bart%20es%20un%20genio.mp4
+#EXTINF: -1 tvg-logo="https://r4.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fs1.abcstatics.com%2Fmedia%2Fcapitulos%2F000%2F001%2F304%2Fsin-blanca-navidad-1.jpg&nuevoancho=690&medio=abc" group-title="Los Simpson", 1x03 La odisea de Homero
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS%201/L%20S%201-3%20La%20odisea%20de%20Homero.mp4
+#EXTINF: -1 tvg-logo="https://r4.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fs1.abcstatics.com%2Fmedia%2Fcapitulos%2F000%2F001%2F304%2Fsin-blanca-navidad-1.jpg&nuevoancho=690&medio=abc" group-title="Los Simpson", 1x04 Una familia modelo
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS%201/L%20S%201-4%20Una%20familia%20modelo.mp4
+#EXTINF: -1 tvg-logo="https://r4.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fs1.abcstatics.com%2Fmedia%2Fcapitulos%2F000%2F001%2F304%2Fsin-blanca-navidad-1.jpg&nuevoancho=690&medio=abc" group-title="Los Simpson", 1x05 El General Bart
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS%201/L%20S%201-5%20El%20General%20Bart.mp4
+#EXTINF: -1 tvg-logo="https://r4.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fs1.abcstatics.com%2Fmedia%2Fcapitulos%2F000%2F001%2F304%2Fsin-blanca-navidad-1.jpg&nuevoancho=690&medio=abc" group-title="Los Simpson", 1x06 La depresión de Lisa
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS%201/L%20S%201-6%20La%20depresi%C3%B3n%20de%20Lisa.mp4
+#EXTINF: -1 tvg-logo="https://r4.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fs1.abcstatics.com%2Fmedia%2Fcapitulos%2F000%2F001%2F304%2Fsin-blanca-navidad-1.jpg&nuevoancho=690&medio=abc" group-title="Los Simpson", 1x07 La llamada de los Simpson
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS%201/L%20S%201-7%20La%20llamada%20de%20los%20Simpson.mp4
+#EXTINF: -1 tvg-logo="https://r4.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fs1.abcstatics.com%2Fmedia%2Fcapitulos%2F000%2F001%2F304%2Fsin-blanca-navidad-1.jpg&nuevoancho=690&medio=abc" group-title="Los Simpson", 1x08 El heroe sin cabeza
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS%201/L%20S%201-8%20El%20h%C3%A9roe%20sin%20cabeza.mp4
+#EXTINF: -1 tvg-logo="https://r4.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fs1.abcstatics.com%2Fmedia%2Fcapitulos%2F000%2F001%2F304%2Fsin-blanca-navidad-1.jpg&nuevoancho=690&medio=abc" group-title="Los Simpson", 1x09 Un momento de decisión
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS%201/L%20S%201-9%20Un%20momento%20de%20decisi%C3%B3n.mp4
+#EXTINF: -1 tvg-logo="https://r4.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fs1.abcstatics.com%2Fmedia%2Fcapitulos%2F000%2F001%2F304%2Fsin-blanca-navidad-1.jpg&nuevoancho=690&medio=abc" group-title="Los Simpson", 1x10 La correría de Homero
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS%201/L%20S%201-10%20La%20correr%C3%ADa%20de%20Homero.mp4
+#EXTINF: -1 tvg-logo="https://r4.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fs1.abcstatics.com%2Fmedia%2Fcapitulos%2F000%2F001%2F304%2Fsin-blanca-navidad-1.jpg&nuevoancho=690&medio=abc" group-title="Los Simpson", 1x11 Intercambio cultural
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS%201/L%20S%201-11%20Intercambio%20cultural.mp4
+#EXTINF: -1 tvg-logo="https://r4.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fs1.abcstatics.com%2Fmedia%2Fcapitulos%2F000%2F001%2F304%2Fsin-blanca-navidad-1.jpg&nuevoancho=690&medio=abc" group-title="Los Simpson", 1x12 Los años que vivimos
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS%201/L%20S%201-12Krusty%20va%20a%20la%20c%C3%A1rcel.mp4
+#EXTINF: -1 tvg-logo="https://r4.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fs1.abcstatics.com%2Fmedia%2Fcapitulos%2F000%2F001%2F304%2Fsin-blanca-navidad-1.jpg&nuevoancho=690&medio=abc" group-title="Los Simpson", 1x13 No robarás
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS%201/L%20S%201-13Una%20noche%20encantadora.mp4
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/3_m3.jpg" group-title="Los Simpson", 2x01 Bart reprueba
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS%202/L%20S%202-1Bart%20reprueba.mp4
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/3_m3.jpg" group-title="Los Simpson", 2x2 Simpson y Dalila
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS%202/ls2-22Sangre%20nueva.mp4
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/3_m3.jpg" group-title="Los Simpson", 2x3 El especial de noche de brujas de los Simpson
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS%202/L%20S%202-3El%20especial%20de%20noche%20de%20brujas%20de%20los%20Simpson.mp4
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/3_m3.jpg" group-title="Los Simpson", 2x4 Dos autos en cada cochera, tres ojos en cada pez
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS%202/L%20S%202-4Dos%20autos%20en%20cada%20cochera%2C%20tres%20ojos%20en%20cada%20pez.mp4
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/3_m3.jpg" group-title="Los Simpson", 2x5 Homero el animador
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS%202/L%20S%202-4Dos%20autos%20en%20cada%20cochera%2C%20tres%20ojos%20en%20cada%20pez.mp4
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/3_m3.jpg" group-title="Los Simpson", 2x6 La sociedad de los golfistas muertos
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS%202/L%20S%202-6%20La%20sociedad%20de%20los%20golfistas%20muertos.mp4
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/3_m3.jpg" group-title="Los Simpson", 2x7 La sociedad de los golfistas muertos
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS%202/LS%202-7Bart%20contra%20el%20D%C3%ADa%20de%20Gracias.mp4
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/3_m3.jpg" group-title="Los Simpson", 2x8 Bart, el temerario.mp4
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS%202/LS2-8Bart%2C%20el%20temerario.mp4
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/3_m3.jpg" group-title="Los Simpson", 2x9 Tomy, Daly y Marge
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS%202/LS%202-9Tomy%2C%20Daly%20y%20Marge.mp4
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/3_m3.jpg" group-title="Los Simpson", 2x10 Bart es atropellado
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS%202/LS2-10Bart%20es%20atropellado.mp4
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/3_m3.jpg" group-title="Los Simpson", 2x11 Aviso de muerte
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS%202/LS2-11Aviso%20de%20muerte.mp4
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/3_m3.jpg" group-title="Los Simpson", 2x12 Los años que vivimos
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS%202/LS2-12Los%20a%C3%B1os%20que%20vivimos.mp4
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/3_m3.jpg" group-title="Los Simpson", 2x13No robarás
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS%202/LS2-13No%20robar%C3%A1s.mp4
 #EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/18/04/25/10/15/5039486.png" group-title="Ed Edd  Eddy", 01x1 Ed Edd y Eddy
 https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2001x01.ia.mp4
 #EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/18/04/25/10/15/5039486.png" group-title="Ed Edd  Eddy", 01x2 Ed Edd y Eddy
