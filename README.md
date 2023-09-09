@@ -1,4 +1,148 @@
 #EXTM3U 
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/18/04/25/10/15/5039486.png" group-title="Ed Edd  Eddy", 01x1 Ed Edd y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2001x01.ia.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/18/04/25/10/15/5039486.png" group-title="Ed Edd  Eddy", 01x2 Ed Edd y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2001x02.ia.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/18/04/25/10/15/5039486.png" group-title="Ed Edd  Eddy", 01x3 Ed Edd y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2001x03.ia.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/18/04/25/10/15/5039486.png" group-title="Ed Edd  Eddy", 01x4 Ed Edd y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2001x04.ia.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/18/04/25/10/15/5039486.png" group-title="Ed Edd  Eddy", 01x5 Ed Edd y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2001x05.ia.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/18/04/25/10/15/5039486.png" group-title="Ed Edd  Eddy", 01x5 Ed Edd y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2001x05.ia.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/18/04/25/10/15/5039486.png" group-title="Ed Edd  Eddy", 01x6 Ed Edd y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2001x06.ia.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/18/04/25/10/15/5039486.png" group-title="Ed Edd  Eddy", 01x7 Ed Edd y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2001x07.ia.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/18/04/25/10/15/5039486.png" group-title="Ed Edd  Eddy", 01x8 Ed Edd y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2001x08.ia.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/18/04/25/10/15/5039486.png" group-title="Ed Edd  Eddy", 01x9 Ed Edd y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2001x09.ia.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/18/04/25/10/15/5039486.png" group-title="Ed Edd  Eddy", 01x10 Ed Edd y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2001x10.ia.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/18/04/25/10/15/5039486.png" group-title="Ed Edd  Eddy", 01x11 Ed Edd y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2001x11.ia.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/18/04/25/10/15/5039486.png" group-title="Ed Edd  Eddy", 01x12 Ed Edd y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2001x12.ia.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/18/04/25/10/15/5039486.png" group-title="Ed Edd  Eddy", 01x13 Ed Edd y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2001x13.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608082/s592/season-2" group-title="Ed Edd  Eddy", 02x1 Ed Edd y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2002x01.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608082/s592/season-2" group-title="Ed Edd  Eddy", 02x2 Ed Edd y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2002x02.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608082/s592/season-2" group-title="Ed Edd  Eddy", 02x3 Ed Edd y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2002x03.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608082/s592/season-2" group-title="Ed Edd  Eddy", 02x4 Ed Edd y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2002x04.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608082/s592/season-2" group-title="Ed Edd  Eddy", 02x5 Ed Edd y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2002x05.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608082/s592/season-2" group-title="Ed Edd  Eddy", 02x6 Ed Edd  y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2002x06.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608082/s592/season-2" group-title="Ed Edd  Eddy", 02x7 Ed Edd  y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2002x07.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608082/s592/season-2" group-title="Ed Edd  Eddy", 02x8 Ed Edd  y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2002x08.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608082/s592/season-2" group-title="Ed Edd  Eddy", 02x9 Ed Edd  y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2002x09.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608082/s592/season-2" group-title="Ed Edd  Eddy", 02x10 Ed Edd  y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2002x10.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608082/s592/season-2" group-title="Ed Edd  Eddy", 02x11 Ed Edd  y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2002x11.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608082/s592/season-2" group-title="Ed Edd  Eddy", 02x12 Ed Edd  y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2002x12.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608082/s592/season-2" group-title="Ed Edd  Eddy", 02x13 Ed Edd  y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2002x13.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608081/s592/temporada-3" group-title="Ed Edd  Eddy", 03x1 Ed Edd  y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2003x01.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608081/s592/temporada-3" group-title="Ed Edd  Eddy", 03x2 Ed Edd  y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2003x02.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608081/s592/temporada-3" group-title="Ed Edd  Eddy", 03x3 Ed Edd  y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2001x03.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608081/s592/temporada-3" group-title="Ed Edd  Eddy", 03x4 Ed Edd  y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2001x04.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608081/s592/temporada-3" group-title="Ed Edd  Eddy", 03x5 Ed Edd  y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2001x05.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608081/s592/temporada-3" group-title="Ed Edd  Eddy", 03x6 Ed Edd  y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2001x06.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608081/s592/temporada-3" group-title="Ed Edd  Eddy", 03x6 Ed Edd  y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2001x06.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608081/s592/temporada-3" group-title="Ed Edd  Eddy", 03x7 Ed Edd  y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2001x07.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608081/s592/temporada-3" group-title="Ed Edd  Eddy", 03x8 Ed Edd  y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2001x08.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608081/s592/temporada-3" group-title="Ed Edd  Eddy", 03x9 Ed Edd  y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2001x09.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608081/s592/temporada-3" group-title="Ed Edd  Eddy", 03x10 Ed Edd  y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2003x10.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608081/s592/temporada-3" group-title="Ed Edd  Eddy", 03x11 Ed Edd  y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2003x11.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608081/s592/temporada-3" group-title="Ed Edd  Eddy", 03x11 Ed Edd  y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2003x11.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608081/s592/temporada-3" group-title="Ed Edd  Eddy", 03x12 Ed Edd  y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2003x12.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608081/s592/temporada-3" group-title="Ed Edd  Eddy", 03x13 Ed Edd  y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2003x13.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608076/s592/temporada-4" group-title="Ed Edd  Eddy", 04x1 Ed Edd  y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2004x01.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608076/s592/temporada-4" group-title="Ed Edd  Eddy", 04x2 Ed Edd  y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2004x02.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608076/s592/temporada-4" group-title="Ed Edd  Eddy", 04x3 Ed Edd  y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2004x03.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608076/s592/temporada-4" group-title="Ed Edd  Eddy", 04x4 Ed Edd  y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2004x04.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608076/s592/temporada-4" group-title="Ed Edd  Eddy", 04x5 Ed Edd  y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2004x05.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608076/s592/temporada-4" group-title="Ed Edd  Eddy", 04x6 Ed Edd  y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2004x06.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608076/s592/temporada-4" group-title="Ed Edd  Eddy", 04x7 Ed Edd  y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2004x07.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608076/s592/temporada-4" group-title="Ed Edd  Eddy", 04x8 Ed Edd  y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2004x08.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608076/s592/temporada-4" group-title="Ed Edd  Eddy", 04x9 Ed Edd  y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2004x09.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608076/s592/temporada-4" group-title="Ed Edd  Eddy", 04x10 Ed Edd  y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2004x10%20.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608076/s592/temporada-4" group-title="Ed Edd  Eddy", 04x11 Ed Edd  y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2004x11.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608076/s592/temporada-4" group-title="Ed Edd  Eddy", 04x12 Ed Edd  y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2004x12.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608076/s592/temporada-4" group-title="Ed Edd  Eddy", 04x13 Ed Edd  y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2004x13.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608075/s592/temporada-5" group-title="Ed Edd  Eddy", 05x1 Ed Edd  y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2005x01.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608075/s592/temporada-5" group-title="Ed Edd  Eddy", 05x2 Ed Edd  y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2005x02.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608075/s592/temporada-5" group-title="Ed Edd  Eddy", 05x3 Ed Edd  y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2005x03.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608075/s592/temporada-5" group-title="Ed Edd  Eddy", 05x4 Ed Edd  y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2005x04.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608075/s592/temporada-5" group-title="Ed Edd  Eddy", 01x5 Ed Edd y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2005x05.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608075/s592/temporada-5" group-title="Ed Edd  Eddy", 05x6 Ed Edd y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2005x06.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608075/s592/temporada-5" group-title="Ed Edd  Eddy", 05x7 Ed Edd y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2005x07.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608075/s592/temporada-5" group-title="Ed Edd  Eddy", 05x8 Ed Edd y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2005x08.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608075/s592/temporada-5" group-title="Ed Edd  Eddy", 05x9 Ed Edd y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2005x09.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608075/s592/temporada-5" group-title="Ed Edd  Eddy", 05x10 Ed Edd y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2005x10%20.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608075/s592/temporada-5" group-title="Ed Edd  Eddy", 05x11 Ed Edd y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2005x11%20.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608075/s592/temporada-5" group-title="Ed Edd  Eddy", 05x12 Ed Edd y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2005x12%20.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/8608075/s592/temporada-5" group-title="Ed Edd  Eddy", 05x13 Ed Edd y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2005x13%20.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/163989622/s592/temporada-6" group-title="Ed Edd  Eddy", 06x1 Ed Edd y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2006x01a.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/163989622/s592/temporada-6" group-title="Ed Edd  Eddy", 06x2 Ed Edd y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2006x01b.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/163989622/s592/temporada-6" group-title="Ed Edd  Eddy", 06x3 Ed Edd y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%2C%20Edd%20Pelicula%20.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/163989622/s592/temporada-6" group-title="Ed Edd  Eddy", 06x4 Ed Edd y Eddy
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%2C%20Edd%20especial%20.ia.mp4
 #EXTINF: -1 tvg-logo="https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/SUEGTRTR2FJX3ODZ3XPXHYIFEM.jpg" group-title="El Show de Cuphead", 01x02 El Show de Cuphead
 https://archive.org/download/01x-08_202309/01x02.mp4
 #EXTINF: -1 tvg-logo="https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/SUEGTRTR2FJX3ODZ3XPXHYIFEM.jpg" group-title="El Show de Cuphead", 01x03 El Show de Cuphead
@@ -45,6 +189,76 @@ https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720
 https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/02x12%20Perdidos%20en%20el%20bosque.ia.mp4
 #EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/300511842/s718/temporada-2.jpg" group-title="El Show de Cuphead", 02x13 El Tridente del diablo
 https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/02x13%20El%20Tridente%20del%20diablo.ia.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/11/24/08/29/4692226.jpg" group-title="Elfen Lied", 01x1 Elfen Lied
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Elfen%20Lied%2001.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/11/24/08/29/4692226.jpg" group-title="Elfen Lied", 01x2 Elfen Lied
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Elfen%20Lied%2002.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/11/24/08/29/4692226.jpg" group-title="Elfen Lied", 01x3 Elfen Lied
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Elfen%20Lied%2003.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/11/24/08/29/4692226.jpg" group-title="Elfen Lied", 01x4 Elfen Lied
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Elfen%20Lied%2004.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/11/24/08/29/4692226.jpg" group-title="Elfen Lied", 01x5 Elfen Lied
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Elfen%20Lied%2005.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/11/24/08/29/4692226.jpg" group-title="Elfen Lied", 01x6 Elfen Lied
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Elfen%20Lied%2006.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/11/24/08/29/4692226.jpg" group-title="Elfen Lied", 01x7 Elfen Lied
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Elfen%20Lied%2007.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/11/24/08/29/4692226.jpg" group-title="Elfen Lied", 01x8 Elfen Lied
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Elfen%20Lied%2008.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/11/24/08/29/4692226.jpg" group-title="Elfen Lied", 01x9 Elfen Lied
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Elfen%20Lied%2009.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/11/24/08/29/4692226.jpg" group-title="Elfen Lied", 01x9 Elfen Lied
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Elfen%20Lied%2009.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/11/24/08/29/4692226.jpg" group-title="Elfen Lied", 01x10 Elfen Lied
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Kono%2001x10.ia.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/11/24/08/29/4692226.jpg" group-title="Elfen Lied", 01x11 Elfen Lied
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Kono%2001x11.ia.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/11/24/08/29/4692226.jpg" group-title="Elfen Lied", 01x12 Elfen Lied
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Kono%2001x12.ia.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/11/24/08/29/4692226.jpg" group-title="Elfen Lied", 01x13 Elfen Lied
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Kono%2001x13.ia.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/11/24/08/29/4692226.jpg" group-title="Elfen Lied", 01x14 Elfen Lied OVA
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Elfen%20Lied%20OVA.mkv
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/260836242/s718/kono-subarashii-sekai-ni-shukufuku-wo.jpg" group-title="Kono Subarashii", 01x1 Kono Subarashii
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Kono%2001x01.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/260836242/s718/kono-subarashii-sekai-ni-shukufuku-wo.jpg" group-title="Kono Subarashii", 01x2 Kono Subarashii
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Kono%2001x02.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/260836242/s718/kono-subarashii-sekai-ni-shukufuku-wo.jpg" group-title="Kono Subarashii", 01x3 Kono Subarashii
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Kono%2001x03.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/260836242/s718/kono-subarashii-sekai-ni-shukufuku-wo.jpg" group-title="Kono Subarashii", 01x4 Kono Subarashii
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Kono%2001x04.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/260836242/s718/kono-subarashii-sekai-ni-shukufuku-wo.jpg" group-title="Kono Subarashii", 01x5 Kono Subarashii
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Kono%2001x05.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/260836242/s718/kono-subarashii-sekai-ni-shukufuku-wo.jpg" group-title="Kono Subarashii", 01x6 Kono Subarashii
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Kono%2001x06.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/260836242/s718/kono-subarashii-sekai-ni-shukufuku-wo.jpg" group-title="Kono Subarashii", 01x7 Kono Subarashii
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Kono%2001x07.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/260836242/s718/kono-subarashii-sekai-ni-shukufuku-wo.jpg" group-title="Kono Subarashii", 01x8 Kono Subarashii
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Kono%2001x08.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/260836242/s718/kono-subarashii-sekai-ni-shukufuku-wo.jpg" group-title="Kono Subarashii", 01x9 Kono Subarashii
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Kono%2001x09.ia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/260836242/s718/kono-subarashii-sekai-ni-shukufuku-wo.jpg" group-title="Kono Subarashii", 01x10 Kono Subarashii
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Kono%2001x10.ia.mp4
+#EXTINF: -1 tvg-logo="https://cdn.myanimelist.net/images/anime/2/83188.jpg" group-title="Kono Subarashii", 02x1 Kono Subarashii
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Kono%2002x01.ia.mp4
+#EXTINF: -1 tvg-logo="https://cdn.myanimelist.net/images/anime/2/83188.jpg" group-title="Kono Subarashii", 02x2 Kono Subarashii
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Kono%2002x02.ia.mp4
+#EXTINF: -1 tvg-logo="https://cdn.myanimelist.net/images/anime/2/83188.jpg" group-title="Kono Subarashii", 02x3 Kono Subarashii
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Kono%2002x03.ia.mp4
+#EXTINF: -1 tvg-logo="https://cdn.myanimelist.net/images/anime/2/83188.jpg" group-title="Kono Subarashii", 02x4 Kono Subarashii
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Kono%2002x04.ia.mp4
+#EXTINF: -1 tvg-logo="https://cdn.myanimelist.net/images/anime/2/83188.jpg" group-title="Kono Subarashii", 02x5 Kono Subarashii
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Kono%2002x05.ia.mp4
+#EXTINF: -1 tvg-logo="https://cdn.myanimelist.net/images/anime/2/83188.jpg" group-title="Kono Subarashii", 02x6 Kono Subarashii
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Kono%2002x06.ia.mp4
+#EXTINF: -1 tvg-logo="https://cdn.myanimelist.net/images/anime/2/83188.jpg" group-title="Kono Subarashii", 02x7 Kono Subarashii
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Kono%2002x07.ia.mp4
+#EXTINF: -1 tvg-logo="https://cdn.myanimelist.net/images/anime/2/83188.jpg" group-title="Kono Subarashii", 02x8 Kono Subarashii
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Kono%2002x08.ia.mp4
+#EXTINF: -1 tvg-logo="https://cdn.myanimelist.net/images/anime/2/83188.jpg" group-title="Kono Subarashii", 02x9 Kono Subarashii
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Kono%2002x09.ia.mp4
+#EXTINF: -1 tvg-logo="https://cdn.myanimelist.net/images/anime/2/83188.jpg" group-title="Kono Subarashii", 02x10 Kono Subarashii
+https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Kono%2002x10.ia.mp4
 #EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1524/1_m3.jpg" group-title="Rick y Morty", 01x01 Rick and Morty
 https://archive.org/download/rick-01x-01/Rick%2001x01.mp4
 #EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/1500/1524/1_m3.jpg" group-title="Rick y Morty", 01x02 Rick and Morty
