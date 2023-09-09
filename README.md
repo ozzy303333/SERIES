@@ -39,7 +39,7 @@ https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS%202/L%
 https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS%202/L%20S%202-6%20La%20sociedad%20de%20los%20golfistas%20muertos.mp4
 #EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/3_m3.jpg" group-title="Los Simpson", 2x7 La sociedad de los golfistas muertos
 https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS%202/LS%202-7Bart%20contra%20el%20D%C3%ADa%20de%20Gracias.mp4
-#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/3_m3.jpg" group-title="Los Simpson", 2x8 Bart, el temerario.mp4
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/3_m3.jpg" group-title="Los Simpson", 2x8 Bart, el temerario
 https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS%202/LS2-8Bart%2C%20el%20temerario.mp4
 #EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/3_m3.jpg" group-title="Los Simpson", 2x9 Tomy, Daly y Marge
 https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS%202/LS%202-9Tomy%2C%20Daly%20y%20Marge.mp4
@@ -49,8 +49,184 @@ https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS%202/LS
 https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS%202/LS2-11Aviso%20de%20muerte.mp4
 #EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/3_m3.jpg" group-title="Los Simpson", 2x12 Los años que vivimos
 https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS%202/LS2-12Los%20a%C3%B1os%20que%20vivimos.mp4
-#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/3_m3.jpg" group-title="Los Simpson", 2x13No robarás
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/3_m3.jpg" group-title="Los Simpson", 2x13 No robarás
 https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS%202/LS2-13No%20robar%C3%A1s.mp4
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/3_m3.jpg" group-title="Los Simpson", 2x14 El último tren
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS%202/LS2-14El%20%C3%BAltimo%20tren.mp4
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/3_m3.jpg" group-title="Los Simpson", 02x15 Dónde estás hermano mío
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS%202/LS2-15%C2%BFD%C3%B3nde%20est%C3%A1s%20hermano%20m%C3%ADo_.mp4
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/3_m3.jpg" group-title="Los Simpson", 02x16 El perro de Bart reprueba
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS%202/LS2-16El%20perro%20de%20Bart%20reprueba.mp4
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/3_m3.jpg" group-title="Los Simpson", 02x17 Nuestros años felices.mp4
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS%202/ls2-17Nuestros%20a%C3%B1os%20felices.mp4
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/3_m3.jpg" group-title="Los Simpson", 02x 18 Pinceles con alma
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS%202/ls2-18Pinceles%20con%20alma.mp4
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/3_m3.jpg" group-title="Los Simpson", 02x 22Sangre nueva
+ls2-22Sangre nueva.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/307277621/s718/temporada-10.jpg" group-title="Los Simpson", 10x01 La sazón del Baile
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS10/ls10-1La%20saz%C3%B3n%20del%20Baile.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/307277621/s718/temporada-10.jpg" group-title="Los Simpson", 10x02 El mago de la Terraza Porsiempreverde
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS10/ls10-2El%20mago%20de%20la%20Terraza%20Porsiempreverde.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/307277621/s718/temporada-10.jpg" group-title="Los Simpson", 10x03 Bart, la madre
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS10/ls10-3Bart%2C%20la%20madre.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/307277621/s718/temporada-10.jpg" group-title="Los Simpson", 10x04 Especial de noche de Brujas IX
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS10/ls10-4Especial%20de%20noche%20de%20Brujas%20IX.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/307277621/s718/temporada-10.jpg" group-title="Los Simpson", 10x05 Cuando se anhela una estrella
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS10/ls10-5Cuando%20se%20anhela%20una%20estrella.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/307277621/s718/temporada-10.jpg" group-title="Los Simpson", 10x07 Lisa obtiene un 10
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS10/ls10-7Lisa%20obtiene%20un%2010.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/307277621/s718/temporada-10.jpg" group-title="Los Simpson", 10x08 Homero Simpson en_ Problemas renales
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS10/ls10-8Homero%20Simpson%20en_%20Problemas%20renales.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/307277621/s718/temporada-10.jpg" group-title="Los Simpson", 10x09 Encuentro con la mafia
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS10/ls10-9Encuentro%20con%20la%20mafia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/307277621/s718/temporada-10.jpg" group-title="Los Simpson", 10x10 Viva Ned Flanders
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS10/ls10-10Viva%20Ned%20Flanders.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/307277621/s718/temporada-10.jpg" group-title="Los Simpson", 10x11 A un Bart salvaje nadie puede destrozarlo
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS10/ls10-11A%20un%20Bart%20salvaje%20nadie%20puede%20destrozarlo.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/307277621/s718/temporada-10.jpg" group-title="Los Simpson", 10x12 Domingo, cruel domingo
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS10/ls10-12Domingo%2C%20cruel%20domingo.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/307277621/s718/temporada-10.jpg" group-title="Los Simpson", 10x13 Homero al máximo
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS10/ls10-13Homero%20al%20m%C3%A1ximo.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/307277621/s718/temporada-10.jpg" group-title="Los Simpson", 10x14 Me acompaña cupido
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS10/ls10-14Me%20acompa%C3%B1a%20cupido.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/307277621/s718/temporada-10.jpg" group-title="Los Simpson", 10x15 El submarino amarillo
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS10/ls10-15El%20submarino%20amarillo.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/307277621/s718/temporada-10.jpg" group-title="Los Simpson", 10x16 Un espacio para Lisa
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS10/ls10-16Un%20espacio%20para%20Lisa.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/307277621/s718/temporada-10.jpg" group-title="Los Simpson", 10x17 Homero trabaja demasiado
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS10/ls10-17Homero%20trabaja%20demasiado.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/307277621/s718/temporada-10.jpg" group-title="Los Simpson", 10x18 Historias de la biblia
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS10/ls10-18Historias%20de%20la%20biblia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/307277621/s718/temporada-10.jpg" group-title="Los Simpson", 10x19 Arte de mamá y papá
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS10/ls10-18Historias%20de%20la%20biblia.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/307277621/s718/temporada-10.jpg" group-title="Los Simpson", 10x20 El anciano y el estudiante con bajas calificaciones
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS10/ls10-20El%20anciano%20y%20el%20estudiante%20con%20bajas%20calificaciones.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/307277621/s718/temporada-10.jpg" group-title="Los Simpson", 10x21 Monty no puede comprar mi amor
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS10/ls10-21Monty%20no%20puede%20comprar%20mi%20amor.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/307277621/s718/temporada-10.jpg" group-title="Los Simpson", 10x22 Salvaron el cerebro de Lisa
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS10/ls10-22Salvaron%20el%20cerebro%20de%20Lisa.mp4
+#EXTINF: -1 tvg-logo="https://images.justwatch.com/poster/307277621/s718/temporada-10.jpg" group-title="Los Simpson", 10x23 Treinta minutos sobre Tokio
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS10/ls10-23Treinta%20minutos%20sobre%20Tokio.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/02/18/12/51/1016910.jpg" group-title="Los Simpson", 11x01 Treinta minutos sobre Tokio
+https://es.web.img3.acsta.net/pictures/19/02/18/12/51/1016910.jpg
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/02/18/12/51/1016910.jpg" group-title="Los Simpson", 11x02 El cambio de Bart
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS11/ls11-2El%20cambio%20de%20Bart.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/02/18/12/51/1016910.jpg" group-title="Los Simpson", 11x03 ¿Adivina quién viene a criticar?
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS11/ls11-3%C2%BFAdivina%20qui%C3%A9n%20viene%20a%20criticar_.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/02/18/12/51/1016910.jpg" group-title="Los Simpson", 11x04 Especial de noche de brujas X
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS11/ls11-4Especial%20de%20noche%20de%20brujas%20X.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/02/18/12/51/1016910.jpg" group-title="Los Simpson", 11x05 Homero granjero
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS11/ls11-5Homero%20granjero.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/02/18/12/51/1016910.jpg" group-title="Los Simpson", 11x06 Hola mamá, hola papá
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS11/ls11-6Hola%20mam%C3%A1%2C%20hola%20pap%C3%A1.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/02/18/12/51/1016910.jpg" group-title="Los Simpson", 11x07 Mal comportamiento
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS11/ls11-7Mal%20comportamiento.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/02/18/12/51/1016910.jpg" group-title="Los Simpson", 11x08 Llévate a mi esposa
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS11/ls11-8Ll%C3%A9vate%20a%20mi%20esposa.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/02/18/12/51/1016910.jpg" group-title="Los Simpson", 11x09 Un gran embaucador
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS11/ls11-9Un%20gran%20embaucador.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/02/18/12/51/1016910.jpg" group-title="Los Simpson", 11x10 La pequeña mamá
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS11/LS11-10La%20peque%C3%B1a%20mam%C3%A1.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/02/18/12/51/1016910.jpg" group-title="Los Simpson", 11x11 Pérdida de fe
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS11/ls11-11P%C3%A9rdida%20de%20fe.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/02/18/12/51/1016910.jpg" group-title="Los Simpson", 11x13 Jinetes galácticos
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS11/ls11-13Jinetes%20gal%C3%A1cticos.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/02/18/12/51/1016910.jpg" group-title="Los Simpson", 11x14 Solo nuevamentirijillo
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS11/ls11-14Solo%20nuevamentirijillo.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/02/18/12/51/1016910.jpg" group-title="Los Simpson", 11x15 Misionero_ Imposible
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS11/ls11-15Misionero_%20Imposible.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/02/18/12/51/1016910.jpg" group-title="Los Simpson", 11x16 Pigmoelion
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS11/ls11-16Pigmoelion.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/02/18/12/51/1016910.jpg" group-title="Los Simpson", 11x17 Bart al futuro
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS11/ls11-17Bart%20al%20futuro.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/02/18/12/51/1016910.jpg" group-title="Los Simpson", 11x18 Días de vino y rosas
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS11/ls11-18D%C3%ADas%20de%20vino%20y%20rosas.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/02/18/12/51/1016910.jpg" group-title="Los Simpson", 11x19 Mata al cocodrilo y huye
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS11/ls11-19Mata%20al%20cocodrilo%20y%20huye.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/02/18/12/51/1016910.jpg" group-title="Los Simpson", 11x20 El último tango en Springfield
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS11/ls11-20El%20%C3%BAltimo%20tango%20en%20Springfield.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/02/18/12/51/1016910.jpg" group-title="Los Simpson", 11x21 Marge está loca, loca, loca
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS11/ls11-21Marge%20est%C3%A1%20loca%2C%20loca%2C%20loca.mp4
+#EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/pictures/19/02/18/12/51/1016910.jpg" group-title="Los Simpson", 11x22 Detrás de la risa
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS11/ls11-22Detr%C3%A1s%20de%20la%20risa.mp4
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/13_m3.jpg" group-title="Los Simpson", 12x01 Detrás de la risa
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS12/ls12-21Relatos%20extraordinarios.mp4
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/13_m3.jpg" group-title="Los Simpson", 12x02 El cuento de dos ciudades
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS12/ls12-2El%20cuento%20de%20dos%20ciudades.mp4
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/13_m3.jpg" group-title="Los Simpson", 12x03 El payaso demente
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS12/ls12-3El%20payaso%20demente.mp4
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/13_m3.jpg" group-title="Los Simpson", 12x04 Lisa y su amor por los árboles
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS12/ls12-4Lisa%20y%20su%20amor%20por%20los%20%C3%A1rboles.mp4
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/13_m3.jpg" group-title="Los Simpson", 12x05 Homero contra la dignidad
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS12/ls12-5Homero%20contra%20la%20dignidad.mp4
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/13_m3.jpg" group-title="Los Simpson", 12x06 Amenaza informática
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS12/ls12-6Amenaza%20inform%C3%A1tica.mp4
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/13_m3.jpg" group-title="Los Simpson", 12x07 El gran estafador
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS12/ls12-7El%20gran%20estafador.mp4
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/13_m3.jpg" group-title="Los Simpson", 12x08 Skinner cubierto por la nieve
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS12/ls12-8Skinner%20cubierto%20por%20la%20nieve.mp4
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/13_m3.jpg" group-title="Los Simpson", 12x09 Homero
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS12/ls12-9Homero.mp4
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/13_m3.jpg" group-title="Los Simpson", 12x10 Pokemamá
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS12/ls12-10Pokemam%C3%A1.mp4
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/13_m3.jpg" group-title="Los Simpson", 12x11 El peor episodio de la serie
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS12/ls12-11El%20peor%20episodio%20de%20la%20serie.mp4
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/13_m3.jpg" group-title="Los Simpson", 12x12 Juego limpio
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS12/ls12-12Juego%20limpio.mp4
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/13_m3.jpg" group-title="Los Simpson", 12x13 El día de la muerte de la comedia
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS12/ls12-13El%20d%C3%ADa%20de%20la%20muerte%20de%20la%20comedia.mp4
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/13_m3.jpg" group-title="Los Simpson", 12x14 Ídolos
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS12/ls12-14%C3%8Ddolos.mp4
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/13_m3.jpg" group-title="Los Simpson", 12x15 Homero idealista
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS12/ls12-15Homero%20idealista.mp4
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/13_m3.jpg" group-title="Los Simpson", 12x16 Los motivos del abusón
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS12/ls12-16Los%20motivos%20del%20abus%C3%B3n.mp4
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/13_m3.jpg" group-title="Los Simpson", 12x17 Safari Simpson
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS12/ls12-17Safari%20Simpson.mp4
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/13_m3.jpg" group-title="Los Simpson", 12x18 Trilogía del error
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS12/ls12-18Trilog%C3%ADa%20del%20error.mp4
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/13_m3.jpg" group-title="Los Simpson", 12x19 Veneración a la Homero
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS12/ls12-19Veneraci%C3%B3n%20a%20la%20Homero.mp4
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/13_m3.jpg" group-title="Los Simpson", 12x20 Hijos de segunda clase
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS12/ls12-20Hijos%20de%20segunda%20clase.mp4
+#EXTINF: -1 tvg-logo="https://www.formulatv.com/images/series/posters/000/33/13_m3.jpg" group-title="Los Simpson", 12x21 Relatos extraordinarios
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS12/ls12-21Relatos%20extraordinarios.mp4
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/The_Simpsons_-_The_13th_Season.jpg" group-title="Los Simpson", 13x1 Relatos extraordinarios
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS13/ls13-1Especial%20de%20noche%20de%20brujas%20XII.mp4
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/The_Simpsons_-_The_13th_Season.jpg" group-title="Los Simpson", 13x2 Padres e hijos
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS13/ls13-2Padres%20e%20hijos.mp4
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/The_Simpsons_-_The_13th_Season.jpg" group-title="Los Simpson", 13x3 La taberna de Homero
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS13/ls13-3La%20taberna%20de%20Homero.mp4
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/The_Simpsons_-_The_13th_Season.jpg" group-title="Los Simpson", 13x4 El Sr Burns se enamora
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS13/ls13-4El%20Sr.%20Burns%20se%20enamora.mp4
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/The_Simpsons_-_The_13th_Season.jpg" group-title="Los Simpson", 13x5 Recuerdos de infancia
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS13/ls13-5Recuerdos%20de%20infancia.mp4
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/The_Simpsons_-_The_13th_Season.jpg" group-title="Los Simpson", 13x6 Lisa de poca fe
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS13/ls13-6Lisa%20de%20poca%20fe.mp4
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/The_Simpsons_-_The_13th_Season.jpg" group-title="Los Simpson", 13x7 Conflictos familiares
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS13/ls13-7Conflictos%20familiares.mp4
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/The_Simpsons_-_The_13th_Season.jpg" group-title="Los Simpson", 13x8 La agridulce Marge
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS13/ls13-8La%20agridulce%20Marge.mp4
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/The_Simpsons_-_The_13th_Season.jpg" group-title="Los Simpson", 13x9 Mandíbula bien cerrada
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS13/ls13-9Mand%C3%ADbula%20bien%20cerrada.mp4
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/The_Simpsons_-_The_13th_Season.jpg" group-title="Los Simpson", 13x11 Bart se enamora
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS13/ls13-11Bart%20se%20enamora.mp4
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/The_Simpsons_-_The_13th_Season.jpg" group-title="Los Simpson", 13x12 El último vaquero del oeste
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS13/ls13-12El%20%C3%BAltimo%20vaquero%20del%20oeste.mp4
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/The_Simpsons_-_The_13th_Season.jpg" group-title="Los Simpson", 13x13 El viejo y el amar
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS13/ls13-12El%20%C3%BAltimo%20vaquero%20del%20oeste.mp4
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/The_Simpsons_-_The_13th_Season.jpg" group-title="Los Simpson", 13x14 Cuentos del dominio público
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS13/ls13-14Cuentos%20del%20dominio%20p%C3%BAblico.mp4
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/The_Simpsons_-_The_13th_Season.jpg" group-title="Los Simpson", 13x15 La culpa es de Lisa
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS13/ls13-15La%20culpa%20es%20de%20Lisa.mp4
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/The_Simpsons_-_The_13th_Season.jpg" group-title="Los Simpson", 13x16 Un fin de semana con Burns
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS13/ls13-16Un%20fin%20de%20semana%20con%20Burns.mp4
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/The_Simpsons_-_The_13th_Season.jpg" group-title="Los Simpson", 13x17 Homenaje a Homero
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS13/ls13-17Homenaje%20a%20Homero.mp4
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/The_Simpsons_-_The_13th_Season.jpg" group-title="Los Simpson", 13x18 Estoy furioso
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS13/ls13-18Estoy%20furioso.mp4
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/The_Simpsons_-_The_13th_Season.jpg" group-title="Los Simpson", 13x19 El dulce Apu
+https://archive.org/download/los-simpson-la-pelicula_202304/simpson/LS/LS13/ls13-19El%20dulce%20Apu.mp4
 #EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/18/04/25/10/15/5039486.png" group-title="Ed Edd  Eddy", 01x1 Ed Edd y Eddy
 https://archive.org/download/c-4pt-41n.-4m-3r-1c-4.c-1v-1l.w-4r.-2016.brrip.-720p.latino-1/Ed%20Edd%2001x01.ia.mp4
 #EXTINF: -1 tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/18/04/25/10/15/5039486.png" group-title="Ed Edd  Eddy", 01x2 Ed Edd y Eddy
